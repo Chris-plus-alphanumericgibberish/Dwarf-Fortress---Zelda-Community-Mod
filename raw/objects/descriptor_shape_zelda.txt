@@ -64,3 +64,35 @@ descriptor_shape_standard
 [SHAPE:KO_Z_TONGUE_FACE]
 	[NAME:face sticking out its tongue:faces sticking out their tongues]
 	[TILE:2]
+
+[SHAPE:CRYSTAL_PRISON]
+	[NAME:crystal prison:crystal prisons]
+	[TILE:4]
+
+[SHAPE:SAND_DUNE]
+	[NAME:sand dune:sand dunes]
+	[TILE:126]
+
+[SHAPE:RUIN]
+	[NAME:ruin:ruins]
+	[TILE:230]
+
+[SHAPE:ANGELIC]
+	[NAME:winged humanoid:winged humanoid]
+	[ADJ:stylized]
+	[ADJ:flying]
+	[ADJ:praying]
+	[TILE:142]
+
+[SHAPE:FARORE_MARK]
+	[NAME:mark of Farore:marks of Farore]
+	[TILE:175]
+
+[SHAPE:DIN_MARK]
+	[NAME:mark of Din:marks of Din]
+	[TILE:247]
+
+[SHAPE:NAYRU_MARK]
+	[NAME:mark of Nayru:marks of Nayru]
+	[TILE:015]
+
