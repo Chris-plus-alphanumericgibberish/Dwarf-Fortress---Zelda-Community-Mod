@@ -3,6 +3,8 @@ creature_large_temperate
 [OBJECT:CREATURE]
 
 [CREATURE:BEAR_GRIZZLY]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A huge brown creature found in temperate woodland.  It is known for its ferocious attack, usually when it or its young are threatened.]
 	[PRONE_TO_RAGE:10]
 	[NAME:grizzly bear:grizzly bears:grizzly bear]
@@ -188,6 +190,8 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 
 [CREATURE:BEAR_BLACK]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A large omnivorous predator found in temperate woodlands.  Mainly living on berries, it will also steal carcasses from other hunters.  Though normally a docile animal, it has been known to kill in a predatory attack.]
 	[PRONE_TO_RAGE:10]
 	[NAME:black bear:black bears:black bear]
@@ -344,6 +348,8 @@ creature_large_temperate
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:DEER]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized hoofed forest creature that grows its antlers back each year.]
 	[NAME:deer:deer:deer]
 	[CASTE_NAME:deer:deer:deer]
@@ -453,6 +459,8 @@ creature_large_temperate
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FOX]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small carnivorous animal found in temperate climates.  It has orange fur and is known for its cleverness.]
 	[NAME:fox:foxes:fox]
 	[CASTE_NAME:fox:foxes:fox]
@@ -571,6 +579,8 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:6561:6115:5683:1755:7456:8567] 5 kph
 
 [CREATURE:RACCOON]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small omnivorous animal with a bright mask of fur.  It is nocturnal and found in temperate forests.  It is a curious animal and has been known to steal from civilized areas.]
 	[NAME:raccoon:raccoons:raccoon]
 	[CASTE_NAME:raccoon:raccoons:raccoon]
@@ -665,6 +675,8 @@ creature_large_temperate
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MACAQUE_RHESUS]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized monkey found in woods and grassland.  It usually lives on roots and insects but can become a pest in civilized areas, roaming in large groups and begging for scraps.]
 	[NAME:rhesus macaque:rhesus macaques:rhesus macaque]
 	[CASTE_NAME:rhesus macaque:rhesus macaques:rhesus macaque]
@@ -815,6 +827,8 @@ creature_large_temperate
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:COUGAR]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A large solitary feline.  It is found most often in dense vegetation, ambushing its prey.]
 	[NAME:cougar:cougars:cougar]
 	[CASTE_NAME:cougar:cougars:cougar]
@@ -910,6 +924,8 @@ creature_large_temperate
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:WOLF]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A large canine found in temperate regions.  It is territorial and hunts in packs.]
 	[NAME:wolf:wolves:wolf]
 	[CASTE_NAME:wolf:wolves:wolf]
@@ -1031,6 +1047,8 @@ creature_large_temperate
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:6561:6115:5683:1755:7456:8567] 5 kph
 
 [CREATURE:GROUNDHOG]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A large, round, lowland rodent.  It lives in burrows in the ground and ventures out to eat.]
 	[NAME:groundhog:groundhogs:groundhog]
 	[CASTE_NAME:groundhog:groundhogs:groundhog]
@@ -1126,6 +1144,8 @@ creature_large_temperate
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:ALLIGATOR]
+	[CREATURE_CLASS:LIZARD]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A huge reptile, found in rivers and marshlands.  It is an ambush predator, solitary and territorial.]
 	[NAME:alligator:alligators:alligator]
 	[CASTE_NAME:alligator:alligators:alligator]
@@ -1230,6 +1250,9 @@ creature_large_temperate
 		[MULTIPLY_VALUE:3]
 
 [CREATURE:BIRD_BUZZARD]
+	[CREATURE_CLASS:AVIAN]
+	[CREATURE_CLASS:MORBID]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A child-sized, red-faced black bird that searches the temperate lands for carrion or wayward adventurers.]
 	[PRONE_TO_RAGE:10]
 	[NAME:buzzard:buzzards:buzzard]

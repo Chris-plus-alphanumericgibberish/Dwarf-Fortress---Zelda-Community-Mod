@@ -3,6 +3,8 @@ creature_birds
 [OBJECT:CREATURE]
 
 [CREATURE:BIRD_BLUEJAY]
+	[CREATURE_CLASS:AVIAN]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small blue-crested bird living in temperate woodlands, known for its harsh chirps.]
 	[NAME:blue jay:blue jays:blue jay]
 	[CASTE_NAME:blue jay:blue jays:blue jay]
@@ -108,6 +110,8 @@ creature_birds
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_CARDINAL]
+	[CREATURE_CLASS:AVIAN]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small bright red bird with a distinctive crest, found in temperate forests.]
 	[NAME:cardinal:cardinals:cardinal]
 	[CASTE_NAME:cardinal:cardinals:cardinal]
@@ -212,6 +216,8 @@ creature_birds
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_GRACKLE]
+	[CREATURE_CLASS:AVIAN]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small gregarious bird, blue and black with yellow eyes, found in temperate pastures.]
 	[NAME:grackle:grackles:grackle]
 	[CASTE_NAME:grackle:grackles:grackle]
@@ -313,6 +319,8 @@ creature_birds
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_ORIOLE]
+	[CREATURE_CLASS:AVIAN]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small yellow and black bird.  They feed in the canopy of the forest.]
 	[NAME:oriole:orioles:oriole]
 	[CASTE_NAME:oriole:orioles:oriole]
@@ -413,6 +421,8 @@ creature_birds
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_RW_BLACKBIRD]
+	[CREATURE_CLASS:AVIAN]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small black bird with bright red markings under the wings.  They live in the marshland.]
 	[NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]
 	[CASTE_NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]
@@ -524,6 +534,9 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 	Theq629
 
 [CREATURE:BIRD_PENGUIN] (based on Magellanic penguin like the ones in the local zoo, while we only have 3 kinds)
+	[CREATURE_CLASS:AVIAN]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small flightless bird that lives on arctic shorelines.]
 	[NAME:penguin:penguins:penguin]
 	[CASTE_NAME:penguin:penguins:penguin]
@@ -619,6 +632,9 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_PENGUIN_LITTLE]
+	[CREATURE_CLASS:AVIAN]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small flightless bird, blue in color, that lives on arctic shorelines.]
 	[NAME:little penguin:little penguins:little penguin]
 	[CASTE_NAME:little penguin:little penguins:little penguin]
@@ -715,6 +731,9 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:BIRD_PENGUIN_EMPEROR]
+	[CREATURE_CLASS:AVIAN]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small flightless bird, it is the largest of the natural penguins.  It is known for its treks through leagues of glacial ice.]
 	[NAME:emperor penguin:emperor penguins:emperor penguin]
 	[CASTE_NAME:emperor penguin:emperor penguins:emperor penguin]
@@ -845,6 +864,8 @@ Peregrine falcons were sponsored by the generous contributions of the Bay 12 com
 	John Tait from Harrow, Middlesex: "Hunting food for vermin"
 
 [CREATURE:BIRD_FALCON_PEREGRINE]
+	[CREATURE_CLASS:AVIAN]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small bird of prey that is capable of great speed.  They dive on unsuspecting vermin.]
 	[NAME:peregrine falcon:peregrine falcons:peregrine falcon]
 	[GENERAL_CHILD_NAME:peregrine falcon chick:peregrine falcon chicks]
@@ -970,6 +991,8 @@ Kiwis were sponsored by the generous contributions of the Bay 12 community.
 	Gregory Kampjes, McLovin
 
 [CREATURE:BIRD_KIWI]
+	[CREATURE_CLASS:AVIAN]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small, brown, flightless bird.  It eats insects and grubs and is known for its keen sense of smell.]
 	[NAME:kiwi:kiwis:kiwi]
 	[CHILD:1][GENERAL_CHILD_NAME:kiwi chick:kiwi chicks]
@@ -1102,6 +1125,8 @@ Ostriches were sponsored by the generous contributions of the Bay 12 community.
 	Tristan Hayes
 
 [CREATURE:BIRD_OSTRICH]
+	[CREATURE_CLASS:AVIAN]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A large flightless bird that runs through the savanna.  It has a long neck and legs.]
 	[NAME:ostrich:ostriches:ostrich]
 	[CHILD:1][GENERAL_CHILD_NAME:ostrich chick:ostrich chicks]

@@ -9,6 +9,8 @@ Octopuses were sponsored by the generous contributions of the Bay 12 community.
 	Gigalith
 
 [CREATURE:OCTOPUS]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized underwater mollusk with eight arms.  It is the most clever of its kind.]
 	[NAME:octopus:octopuses:octopus]
 	[CASTE_NAME:octopus:octopuses:octopus]
@@ -116,6 +118,9 @@ Crabs were sponsored by the generous contributions of the Bay 12 community.
 	Aqizzar
 
 [CREATURE:CRAB]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny shelled ocean creature with many long legs.  It has two large pincers on its front limbs.]
 	[NAME:crab:crabs:crab]
 	[CASTE_NAME:crab:crabs:crab]
@@ -176,6 +181,8 @@ Cuttlefish were sponsored by the generous contributions of the Bay 12 community.
 	Duncan Pettengill - "If you push something hard enough, it will fall over"
 
 [CREATURE:CUTTLEFISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny sea mollusk.  It can change color and skin patterns for communication.]
 	[NAME:cuttlefish:cuttlefish:cuttlefish]
 	[CASTE_NAME:cuttlefish:cuttlefish:cuttlefish]
@@ -283,6 +290,9 @@ Cuttlefish were sponsored by the generous contributions of the Bay 12 community.
 Orcas were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:ORCA]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A huge ocean mammal.  It is a vicious predator and can hunt in groups.]
 	[NAME:orca:orcas:orca]
 	[CASTE_NAME:orca:orcas:orca]
@@ -368,6 +378,9 @@ Horseshoe crabs were sponsored by the generous contributions of the Bay 12 commu
 	"We were here ages ago, we'll be here after all of you are gone."
 
 [CREATURE:HORSESHOE_CRAB]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny sea animal that lives in the sand just offshore.  It has a flat body with legs underneath.]
 	[NAME:horseshoe crab:horseshoe crabs:horseshoe crab]
 	[CASTE_NAME:horseshoe crab:horseshoe crabs:horseshoe crab]
@@ -419,6 +432,8 @@ Nautiluses were sponsored by the generous contributions of the Bay 12 community.
 	Adam Isom
 
 [CREATURE:NAUTILUS]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny, mollusk with a large shell and many tentacles.]
 	[NAME:nautilus:nautiluses:nautilus]
 	[CASTE_NAME:nautilus:nautiluses:nautilus]

@@ -3,6 +3,8 @@ creature_amphibians
 [OBJECT:CREATURE]
 
 [CREATURE:TOAD]
+	[CREATURE_CLASS:AMPHIBIAN]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A squat amphibian with leathery skin, found in relatively dry areas.]
 	[NAME:toad:toads:toad]
 	[CASTE_NAME:toad:toads:toad]
@@ -95,6 +97,8 @@ creature_amphibians
 Green tree frogs were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:GREEN_TREE_FROG]
+	[CREATURE_CLASS:AMPHIBIAN]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny amphibian that lives in the trees.]
 	[NAME:green tree frog:green tree frogs:green tree frog]
 	[CASTE_NAME:green tree frog:green tree frogs:green tree frog]

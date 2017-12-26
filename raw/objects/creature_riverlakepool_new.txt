@@ -8,6 +8,9 @@ Otters were sponsored by the generous contributions of the Bay 12 community.
 	moomeli
 
 [CREATURE:RIVER OTTER]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small river mammal with a long body.  They enjoy eating shellfish and other small animals.]
 	[NAME:river otter:river otters:river otter]
 	[CASTE_NAME:river otter:river otters:river otter]
@@ -104,6 +107,9 @@ Otters were sponsored by the generous contributions of the Bay 12 community.
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SEA OTTER]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small marine mammal with a long body.  They enjoy eating shellfish and other small animals.]
 	[NAME:sea otter:sea otters:sea otter]
 	[CASTE_NAME:sea otter:sea otters:sea otter]
@@ -203,6 +209,9 @@ Beavers were sponsored by the generous contributions of the Bay 12 community.
 	Lord Darkstar
 
 [CREATURE:BEAVER]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small river mammal with a flat tail, known for building wooden dams.]
 	[NAME:beaver:beavers:beaver]
 	[CASTE_NAME:beaver:beavers:beaver]
@@ -302,6 +311,9 @@ Leeches were sponsored by the generous contributions of the Bay 12 community.
 	Baalak Nalzar-aung
 
 [CREATURE:LEECH]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny, aquatic, worm-like creature that feeds on blood.]
 	[NAME:leech:leeches:leech]
 	[CASTE_NAME:leech:leeches:leech]
@@ -389,6 +401,9 @@ Axolotls were sponsored by the generous contributions of the Bay 12 community.
 	Paul W.
 
 [CREATURE:AXOLOTL]
+	[CREATURE_CLASS:AMPHIBIAN]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small salamander found in remote lakes.  It has the mysterious ability to regrow limbs.]
 	[NAME:axolotl:axolotls:axolotl]
 	[CASTE_NAME:axolotl:axolotls:axolotl]
@@ -465,6 +480,8 @@ Pond turtles were sponsored by the generous contributions of the Bay 12 communit
 	Shane Phillips
 
 [CREATURE:POND_TURTLE]
+	[CREATURE_CLASS:LIZARD]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny reptile with a shell on its back.  It can be found in rivers and ponds.]
 	[NAME:pond turtle:pond turtles:pond turtle]
 	[CASTE_NAME:pond turtle:pond turtles:pond turtle]

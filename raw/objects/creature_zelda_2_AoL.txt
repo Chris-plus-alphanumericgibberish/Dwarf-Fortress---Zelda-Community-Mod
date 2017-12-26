@@ -3,6 +3,7 @@ creature_zelda_II_AoL
 [OBJECT:CREATURE]
 
 [CREATURE:ACHE]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:One of the Eyes of Ganon, a tiny winged creature that lives in dark places.  Usually, it hangs upside down from trees or in caves.]
 	[NAME:tiny ache:tiny aches:ache]
 	[CASTE_NAME:ache:aches:ache]
@@ -113,6 +114,7 @@ creature_zelda_II_AoL
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:ACHE_LARGE]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:One of the Eyes of Ganon, a tiny winged creature that lives in dark places.  Usually, it hangs upside down from trees or in caves.]
 	[NAME:ache:aches:ache]
 	[CASTE_NAME:ache:aches:ache]
@@ -222,6 +224,8 @@ creature_zelda_II_AoL
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MORPHED_ACHE]
+	[CREATURE_CLASS:MONSTER]
+	[CREATURE_CLASS:INTELLIGENT]
 	[NAME:strange hylian:strange hylians:hylian]
 	[CREATURE_TILE:'H'][COLOR:3:0:0]
 	 INTELLIGENT 
@@ -495,6 +499,7 @@ creature_zelda_II_AoL
 	[ITEMCORPSE:VERMIN:NO_SUBTYPE:ACHE:NO_MATGLOSS]
 
 [CREATURE:RED_ACHE]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:One of the Eyes of Ganon, a tiny winged creature that lives in dark places.  Usually, it hangs upside down from trees or in caves.]
 	[NAME:red ache:red aches:red ache]
 	[CASTE_NAME:red ache:red aches:red ache]
@@ -616,6 +621,7 @@ creature_zelda_II_AoL
 
 
 [CREATURE:ACHEMAN]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A bat-demon that is part of the dark forces battering Hyrule.  Although they lack the Hylian shape-shifting abilities of their cousins, they have a much more deadly transformation]
 	[PRONE_TO_RAGE:100]
 	[NAME:acheman:achemen:acheman]
@@ -732,6 +738,8 @@ creature_zelda_II_AoL
 	[ITEMCORPSE:BOULDER:NO_SUBTYPE:INORGANIC:FLAMELESS_FIRE]
 
 [CREATURE:ARURODA]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A gigantic insect with huge pincers and a poisonous barbed tail.  The front of it's body is dominated by a single huge eye.  It has a painful sting, and it flings rocks to stun its prey from a distance.  It is found in desert lands.]
 	[PRONE_TO_RAGE:100]
 	[SAVAGE]
@@ -922,6 +930,8 @@ creature_zelda_II_AoL
 
 
 [CREATURE:BAGO_BAGO]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A skeletal fish found in watery and lava-filled regions all over Hyrule.]
 	[PRONE_TO_RAGE:100]
 	[NAME:bago-bago:bago-bagos:bago-bago]
@@ -1054,6 +1064,7 @@ creature_zelda_II_AoL
 				[TLCM_NOUN:bones:PLURAL]
 
 [CREATURE:BIT]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A strange blue blob. They have been known to jump from time to time as an attack.]
 	[PRONE_TO_RAGE:50]
 	[NAME:bit:bits:bit]
@@ -1128,6 +1139,7 @@ creature_zelda_II_AoL
 		[POP_RATIO:15]
 
 [CREATURE:BOT]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A strange blue blob. They have been known to jump from time to time as an attack.]
 	[NAME:bot:bots:bot]
 	[PRONE_TO_RAGE:50]
@@ -1195,6 +1207,8 @@ creature_zelda_II_AoL
 		[ARENA_RESTRICTED][ITEMCORPSE:TOOL:ITEM_TOOL_VIAL:INORGANIC:MAGIC]
 
 [CREATURE:DEELER]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A midsized arachnid that lives in caves and forests.  It spits balls of silk at its prey.]
 	[PRONE_TO_RAGE:10]
 	[NAME:deeler:deelers:deeler]
@@ -1387,6 +1401,8 @@ creature_zelda_II_AoL
 	[SELECT_CASTE:ALL]
 
 [CREATURE:DOOMKNOCKER]
+	[CREATURE_CLASS:INTELLIGENT]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A blue armored soldier from the guma tribe, also known as a Doomknocker in some human dialects.  It carries a large supply of iron maces, and fights by throwing them at opponents.]
 	[PRONE_TO_RAGE:100]
 	[NAME:hell guma:hell gumas:hell guma]
@@ -1557,6 +1573,8 @@ creature_zelda_II_AoL
 		[POP_RATIO:5]
 
 [CREATURE:GUMA]
+	[CREATURE_CLASS:INTELLIGENT]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A pink-skinned demon.  It carries a large supply of iron maces, and fights by throwing them at opponents.]
 	[PRONE_TO_RAGE:100]
 	[NAME:guma:gumas:guma]
@@ -1705,6 +1723,8 @@ creature_zelda_II_AoL
 
 
 [CREATURE:FOKKERU]
+	[CREATURE_CLASS:INTELLIGENT]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A medium-sized humanoid driven to cruelty by its evil nature.]
 	[LARGE_PREDATOR][LARGE_ROAMING]
 	[BIOME:ANY_LAND][BIOME:SUBTERRANEAN_CHASM]
@@ -2005,6 +2025,7 @@ creature_zelda_II_AoL
 
 
 [CREATURE:GERUDOARM]
+	[CREATURE_CLASS:BUG]
 	[DESCRIPTION:A huge bug that stretches from the ground to the sky.  The quickest way to defeat it is to attack its head.  It lives beneath the desert and hunts by throwing rocks at its prey.  Some human tribes know these as geldarms.]
 	[PRONE_TO_RAGE:10]
 	[NAME:gerudoarm:gerudoarms:gerudoarm]
@@ -2186,6 +2207,7 @@ creature_zelda_II_AoL
 
 
 [CREATURE:GIRUBOKKU]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A strange floating eyeball.  It's lids are heavily armored, the best way to attack it is to wait until it opens its eye.]
 	[PRONE_TO_RAGE:10]
 	[NAME:girubokku:girubokkus:girubokku]
@@ -2315,6 +2337,8 @@ creature_zelda_II_AoL
 
 
 [CREATURE:KNUCKLE]
+	[CREATURE_CLASS:INTELLIGENT]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A member of the knightly order of the knuckles.  It is armored from head to toe and carries a heavy weapon.]
 	[LARGE_PREDATOR][LARGE_ROAMING]
 	[BIOME:ANY_LAND][BIOME:SUBTERRANEAN_CHASM]
@@ -2551,6 +2575,8 @@ creature_zelda_II_AoL
 	[LOCAL_POPS_PRODUCE_HEROES]
 
 [CREATURE:SEA_KNUCKLE]
+	[CREATURE_CLASS:INTELLIGENT]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A member of the knightly order of the knuckles.  It is armored from head to toe and carries a heavy weapon.]
 	[LARGE_PREDATOR][LARGE_ROAMING]
 	[BIOME:ANY_WETLAND]
@@ -2699,6 +2725,8 @@ creature_zelda_II_AoL
 
 
 [CREATURE:LEEVER]
+	[CREATURE_CLASS:PLANT]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A fast moving plantlike creature.  It is found in sandy deserts and in caverns.]
 	[PRONE_TO_RAGE:100]
 	[NAME:leever:leevers:leever]
@@ -2860,6 +2888,8 @@ creature_zelda_II_AoL
 		[POP_RATIO:5]
 
 [CREATURE:RODA]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A medium sized, hard shelled insectoid.  It is found in caves and in the deep deserts.  Also called a lowder by some human tribes.]
 	[PRONE_TO_RAGE:10]
 	[NAME:roda:rodas:roda]
@@ -3002,6 +3032,7 @@ creature_zelda_II_AoL
 	[SELECT_CASTE:ALL]
 
 [CREATURE:MAU]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A floating panther head.  It began as ornamental statue adorning one of the palaces of hyrule, before it was brought to life by dark magic.]
 	[PRONE_TO_RAGE:100]
 	[NAME:mau:maus:mau]
@@ -3104,6 +3135,8 @@ creature_zelda_II_AoL
 		[POP_RATIO:10]
 
 [CREATURE:MEGAMAT]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A large hopping marsupial found in caves, deserts, and grasslands.]
 	[PRONE_TO_RAGE:5]
 	[NAME:megamat:megamats:megamat]
@@ -3266,6 +3299,7 @@ creature_zelda_II_AoL
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MOA]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A strange floating eyeball that weeps fire.  Some types are almost invisible.]
 	 PRONE_TO_RAGE:100 should run from you while weeping fire
 	[NAME:moa:moas:moa]
@@ -3380,6 +3414,8 @@ creature_zelda_II_AoL
 		[POP_RATIO:1]
 
 [CREATURE:MOBY]
+	[CREATURE_CLASS:AVIAN]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:An large bird-like monster that nests in wetlands.]
 	[PRONE_TO_RAGE:10]
 	[NAME:moby:mobies:moby]
@@ -3543,6 +3579,7 @@ creature_zelda_II_AoL
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:MYU]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A tiny blue blob. It defends itself with extendable spines.]
 	[PRONE_TO_RAGE:1]
 	[NAME:myu:myus:myu]
@@ -3610,6 +3647,8 @@ creature_zelda_II_AoL
 
 
 [CREATURE:BOON]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A carnivorous flying insect found in swamps.  It hunts by dropping rocks on its prey.]
 	[PRONE_TO_RAGE:50]
 	[NAME:boon:boons:boon]
@@ -3759,6 +3798,7 @@ creature_zelda_II_AoL
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:RA]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A floating dragon head.  It began as ornamental statue adorning one of the palaces of hyrule, before it was brought to life by dark magic.]
 	[PRONE_TO_RAGE:100]
 	[NAME:ra:rae:ra]
@@ -3863,6 +3903,8 @@ creature_zelda_II_AoL
 		[POP_RATIO:10]
 
 [CREATURE:TEKTITE]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A gigantic insectoid with 4 long legs.  The front of it's body is dominated by a single huge eye.  It flings rocks to stun its prey from a distance before closing in a single bound.  It is found in mountainous areas.]
 	[PRONE_TO_RAGE:50]
 	[NAME:tektite:tektites:tektite]
@@ -4044,6 +4086,7 @@ creature_zelda_II_AoL
 
 
 [CREATURE:HELMETHEAD]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A member of the helmethead tribe.  It is armored from head to toe and carries a heavy weapon.]
 	[PRONE_TO_RAGE:100]
 	[NAME:helmethead:helmetheads:helmethead]
@@ -4220,6 +4263,7 @@ creature_zelda_II_AoL
 		[SWIMS_LEARNED]
 
 [CREATURE:HORSEHEAD]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A member of the horsehead tribe.  It wears armor and carries a heavy weapon.]
 	[PRONE_TO_RAGE:100]
 	[NAME:horsehead:horseheads:horsehead]
@@ -4364,6 +4408,7 @@ creature_zelda_II_AoL
 		[SWIMS_LEARNED]
 
 [CREATURE:GOOMA]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A member of the giant gooma tribe.  It wears no armor, but carries a heavy weapon.]
 	[PRONE_TO_RAGE:100]
 	[NAME:gooma:goomas:gooma]
@@ -4536,6 +4581,7 @@ creature_zelda_II_AoL
 		[SWIMS_LEARNED]
 
 [CREATURE:KO_Z_BARBA]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A long draconic creature with an unicorn's horn.]
 	[NAME:barba:barbas:barba]
 	[CASTE_NAME:barba:barbas:barba]

@@ -3,6 +3,8 @@ creature_annelids
 [OBJECT:CREATURE]
 
 [CREATURE:WORM]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny burrowing creature, found in moist soil.  It is legless, long and thin.]
 	[NAME:worm:worms:worm]
 	[CASTE_NAME:worm:worms:worm]

@@ -8,6 +8,8 @@ Geckos were sponsored by the generous contributions of the Bay 12 community.
 	Ghoulz - 15 minutes could save you 15% or more on carp insurance.
 
 [CREATURE:GECKO_LEOPARD]
+	[CREATURE_CLASS:LIZARD]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny, brightly-colored lizard with feet that can stick to branch and stone.]
 	[NAME:leopard gecko:leopard geckos:leopard gecko]
 	[CASTE_NAME:leopard gecko:leopard geckos:leopard gecko]
@@ -139,6 +141,8 @@ Desert tortoises were sponsored by the generous contributions of the Bay 12 comm
 	Zari
 
 [CREATURE:DESERT TORTOISE]
+	[CREATURE_CLASS:LIZARD]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny shelled reptile that lives in the desert.]
 	[NAME:desert tortoise:desert tortoises:desert tortoise]
 	[CASTE_NAME:desert tortoise:desert tortoises:desert tortoise]
@@ -282,11 +286,14 @@ Gila monsters were sponsored by the generous contributions of the Bay 12 communi
 	Funnyguts
 
 [CREATURE:GILA_MONSTER]
+	[CREATURE_CLASS:LIZARD]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small venomous lizard.]
 	[NAME:gila monster:gila monsters:gila monster]
 	[CASTE_NAME:gila monster:gila monsters:gila monster]
 	[CHILD:1][GENERAL_CHILD_NAME:gila monster hatchling:gila monster hatchlings]
 	[CREATURE_TILE:'g'][COLOR:4:0:1]
+	[CREATURE_CLASS:POISONOUS]
 	[AMPHIBIOUS]
 	[BIOME:ANY_DESERT]
 	[LARGE_ROAMING]

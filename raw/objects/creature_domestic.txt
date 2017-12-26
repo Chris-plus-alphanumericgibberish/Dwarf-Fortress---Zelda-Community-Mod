@@ -3,6 +3,8 @@ creature_domestic
 [OBJECT:CREATURE]
 
 [CREATURE:DOG]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized highly social mammalian carnivore.  It has a keen sense of smell.  It can be trained to obey commands.]
 	[NAME:dog:dogs:canine]
 	[CASTE_NAME:dog:dogs:canine]
@@ -122,6 +124,8 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:CAT]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small mammalian carnivore.  It is usually domestic and hunts vermin.]
 	[NAME:cat:cats:feline]
 	[CASTE_NAME:cat:cats:feline]
@@ -271,6 +275,9 @@ creature_domestic
 		[CDI:WAIT_PERIOD:20]
 
 [CREATURE:MULE]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:HORSE]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A compact offspring of horse and donkey, bred to be a beast of burden.]
 	[NAME:mule:mules:mule]
 	[CASTE_NAME:mule:mules:mule]
@@ -360,6 +367,9 @@ creature_domestic
 			[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:DONKEY]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:HORSE]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized, hooved herbivore.  Some are domesticated as beasts of burden.]
 	[NAME:donkey:donkeys:asinine]
 	[CASTE_NAME:donkey:donkeys:asinine]
@@ -473,6 +483,9 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:HORSE]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:HORSE]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A large hooved, maned herbivore.  They can run swiftly and many are domesticated as steeds.]
 	[NAME:horse:horses:equine]
 	[CASTE_NAME:horse:horses:equine]
@@ -590,6 +603,8 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:COW]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A large mammalian herbivore.  They often bear large horns and the males are ill-tempered.  They are domesticated for milk and meat.]
 	[NAME:cow:cows:bovine]
 	[CASTE_NAME:cow:cows:bovine]
@@ -870,6 +885,8 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:PIG]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized domestic animal.  It has a distinctive snout and corkscrew tail.  It is thought by some to be intelligent.]
 	[NAME:pig:pigs:porcine]
 	[CHILD:1][GENERAL_CHILD_NAME:piglet:piglets]
@@ -1024,6 +1041,8 @@ creature_domestic
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:RABBIT]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small lagomorph with long ears.  It has powerful hind legs which it uses to swiftly avoid predators.  It can be found anywhere from forests to deserts.]
 	[NAME:rabbit:rabbits:rabbit]
 	[CHILD:1][GENERAL_CHILD_NAME:bunny:bunnies]

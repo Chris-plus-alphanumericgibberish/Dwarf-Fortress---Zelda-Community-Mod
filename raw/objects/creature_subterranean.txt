@@ -3,6 +3,8 @@ creature_subterranean
 [OBJECT:CREATURE]
 
 [CREATURE:TOAD_GIANT_CAVE]
+	[CREATURE_CLASS:AMPHIBIAN]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A giant amphibian predator found underground.]
 	[NAME:giant cave toad:giant cave toads:giant cave toad]
 	[CASTE_NAME:giant cave toad:giant cave toads:giant cave toad]
@@ -79,6 +81,8 @@ creature_subterranean
 		[MULTIPLY_VALUE:4]
 
 [CREATURE:OLM_GIANT]
+	[CREATURE_CLASS:AMPHIBIAN]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A giant amphibian predator found underground near water.]
 	[NAME:giant olm:giant olms:giant olm]
 	[CASTE_NAME:giant olm:giant olms:giant olm]
@@ -156,11 +160,13 @@ creature_subterranean
 		[MULTIPLY_VALUE:4]
 
 [CREATURE:BAT_GIANT]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A giant flying mammal found underground.]
 	[NAME:giant bat:giant bats:giant bat]
 	[CASTE_NAME:giant bat:giant bats:giant bat]
 	[CHILD:1][GENERAL_CHILD_NAME:giant bat pup:giant bat pups]
 	[CREATURE_TILE:'B'][COLOR:0:0:1]
+	[CREATURE_CLASS:MAMMAL]
 	[FLIER]
 	[PETVALUE:750]
 	[PET_EXOTIC]

@@ -3,6 +3,9 @@ creature_large_riverlake
 [OBJECT:CREATURE]
 
 [CREATURE:HIPPO]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A huge, round, hairless river creature.  It is a plant-eating animal but has long tusks and can be aggressive and deadly if disturbed.]
 	[NAME:hippo:hippos:hippo]
 	[CASTE_NAME:hippo:hippos:hippo]

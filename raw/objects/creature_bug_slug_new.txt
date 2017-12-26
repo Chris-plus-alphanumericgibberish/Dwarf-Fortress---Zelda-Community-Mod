@@ -7,6 +7,8 @@ Damselflies were sponsored by the generous contributions of the Bay 12 community
 	C.J. Hull
 
 [CREATURE:DAMSELFLY]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny, colorful, long-bodied insect.]
 	[NAME:damselfly:damselflies:damselfly]
 	[CASTE_NAME:damselfly:damselflies:damselfly]
@@ -65,6 +67,8 @@ Moths were sponsored by the generous contributions of the Bay 12 community.
 	Shakkara thinks this game had a serious lack of cute moths
 
 [CREATURE:MOTH]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny nocturnal insect.  It flies toward flames in the night.]
 	[CREATURE_TILE:249][COLOR:6:0:0]
 	[NAME:moth:moths:moth]
@@ -148,6 +152,8 @@ Grasshoppers were sponsored by the generous contributions of the Bay 12 communit
 	Bernard Suits
 
 [CREATURE:GRASSHOPPER]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny insect which uses its powerful legs to leap and make noise.]
 	[NAME:grasshopper:grasshoppers:grasshopper]
 	[CASTE_NAME:grasshopper:grasshoppers:grasshopper]
@@ -203,6 +209,8 @@ Bark scorpions were sponsored by the generous contributions of the Bay 12 commun
 	in fond memory of Ivan
 
 [CREATURE:BARK_SCORPION]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny yellow bug.  It has pincers and a stinging tail which can prove fatal.]
 	[NAME:bark scorpion:bark scorpions:bark scorpion]
 	[CASTE_NAME:bark scorpion:bark scorpions:bark scorpion]
@@ -284,6 +292,8 @@ Bark scorpions were sponsored by the generous contributions of the Bay 12 commun
 Mantises were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:MANTIS]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny green insect.  It has long, distinctive forelimbs that it uses to catch its prey.]
 	[NAME:mantis:mantises:mantis]
 	[CASTE_NAME:mantis:mantises:mantis]
@@ -344,6 +354,8 @@ Ticks were sponsored by the generous contributions of the Bay 12 community.
 	infection vector extraordinaire!
 
 [CREATURE:TICK]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny, blood-sucking bug found in wooded areas.]
 	[NAME:tick:ticks:tick]
 	[CASTE_NAME:tick:ticks:tick]
@@ -402,6 +414,8 @@ Lice were sponsored by the generous contributions of the Bay 12 community.
 	Maldoror
 
 [CREATURE:LOUSE]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:NATURAL]
 	Should not be able to survive away from host.
 	[DESCRIPTION:A tiny parasitic insect.  It feeds on skin and blood.]
 	[NAME:louse:lice:louse]
@@ -460,6 +474,8 @@ Thrips were sponsored by the generous contributions of the Bay 12 community.
 	For Sachin Gadani
 
 [CREATURE:THRIPS]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny pest insect.  It feeds on both crops and other bugs.]
 	[NAME:thrips:thrips:thrips]
 	[CASTE_NAME:thrips:thrips:thrips]
@@ -517,6 +533,8 @@ Thrips were sponsored by the generous contributions of the Bay 12 community.
 Slugs were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:SLUG]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny land mollusk.  It can be found under rotten logs and in gardens.]
 	[NAME:slug:slugs:slug]
 	[CASTE_NAME:slug:slugs:slug]
@@ -586,6 +604,8 @@ Slugs were sponsored by the generous contributions of the Bay 12 community.
 Mosquitos were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:MOSQUITO]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny pest insect.  It uses its long nose to suck blood from its host.]
 	[NAME:mosquito:mosquitos:mosquito]
 	[CASTE_NAME:mosquito:mosquitos:mosquito]
@@ -648,6 +668,8 @@ Jumping spiders were sponsored by the generous contributions of the Bay 12 commu
 	John 'Chaoseed' Evans
 
 [CREATURE:SPIDER_JUMPING]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny black bug that lacks a web but can leap short distances.]
 	[NAME:jumping spider:jumping spiders:jumping spider]
 	[CASTE_NAME:jumping spider:jumping spiders:jumping spider]
@@ -704,6 +726,8 @@ Termites were sponsored by the generous contributions of the Bay 12 community.
 	RiceMunk
 
 [CREATURE:TERMITE]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny insect capable of destroying large wooden structures when in large numbers.]
 	[NAME:termite:termites:termite]
 	[CREATURE_TILE:250][COLOR:7:0:1]
@@ -771,6 +795,8 @@ Moon snails were sponsored by the generous contributions of the Bay 12 community
 	"In soviet russia, snail eats YOU with tiny fork!"
 
 [CREATURE:MOON_SNAIL]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny predatory mollusk.  It is brightly colored.]
 	[NAME:moon snail:moon snails:moon snail]
 	[CASTE_NAME:moon snail:moon snails:moon snail]
@@ -831,6 +857,8 @@ Brown recluse spiders were sponsored by the generous contributions of the Bay 12
 	Arthemax
 
 [CREATURE:SPIDER_BROWN_RECLUSE]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny brown bug known for its powerful poison.]
 	[NAME:brown recluse spider:brown recluse spiders:brown recluse spider]
 	[CASTE_NAME:brown recluse spider:brown recluse spiders:brown recluse spider]
@@ -909,6 +937,8 @@ Snails were sponsored by the generous contributions of the Bay 12 community.
 	Liegrean
 
 [CREATURE:SNAIL]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny land mollusk with a large shell.]
 	[NAME:snail:snails:snail]
 	[CASTE_NAME:snail:snails:snail]
