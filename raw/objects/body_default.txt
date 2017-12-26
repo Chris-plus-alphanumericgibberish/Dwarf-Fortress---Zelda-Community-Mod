@@ -2,10 +2,6 @@ body_default
 
 [OBJECT:BODY]
 
-[BODY:BASIC_HEAD]
-	[BP:HD:head:STP][CON:NK][HEAD][CATEGORY:HEAD]
-		[DEFAULT_RELSIZE:300]
-
 [BODY:BASIC_1PARTBODY]
 	Categories are user-defined strings that can be used elsewhere to refer to groups of bodyparts for other commands.
 	[BP:UB:body:bodies][UPPERBODY][LOWERBODY][CATEGORY:BODY]
