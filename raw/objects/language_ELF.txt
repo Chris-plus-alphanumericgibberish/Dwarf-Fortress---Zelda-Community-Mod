@@ -343,6 +343,7 @@ language_ELF
 	[T_WORD:GLUTTON:leweme]
 	[T_WORD:GOAT:efafi]
 	[T_WORD:GOD:ama]
+	[T_WORD:GODDESS:ama]
 	[T_WORD:GOD-FORSAKEN:ulire]
 	[T_WORD:GOLD:ithi]
 	[T_WORD:GOOSE:abime]

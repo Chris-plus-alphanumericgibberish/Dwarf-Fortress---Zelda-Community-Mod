@@ -343,6 +343,7 @@ language_DWARF
 	[T_WORD:GLUTTON:ubur]
 	[T_WORD:GOAT:belbez]
 	[T_WORD:GOD:n•m]
+	[T_WORD:GODDESS:n•m]
 	[T_WORD:GOD-FORSAKEN:bunsoth]
 	[T_WORD:GOLD:limul]
 	[T_WORD:GOOSE:kurig]

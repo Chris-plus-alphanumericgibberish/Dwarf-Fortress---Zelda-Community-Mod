@@ -343,6 +343,7 @@ language_GOBLIN
 	[T_WORD:GLUTTON:rusm]
 	[T_WORD:GOAT:orang]
 	[T_WORD:GOD:usp]
+	[T_WORD:GODDESS:usp]
 	[T_WORD:GOD-FORSAKEN:togu]
 	[T_WORD:GOLD:ongong]
 	[T_WORD:GOOSE:us]

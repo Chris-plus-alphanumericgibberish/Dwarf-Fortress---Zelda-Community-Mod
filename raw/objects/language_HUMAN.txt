@@ -343,6 +343,7 @@ language_HUMAN
 	[T_WORD:GLUTTON:uquir]
 	[T_WORD:GOAT:apsong]
 	[T_WORD:GOD:anoth]
+	[T_WORD:GODDESS:anoth]
 	[T_WORD:GOD-FORSAKEN:lek]
 	[T_WORD:GOLD:abli]
 	[T_WORD:GOOSE:jathbi]
