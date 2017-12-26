@@ -3,6 +3,8 @@ creature_small_ocean
 [OBJECT:CREATURE]
 
 [CREATURE:MUSSEL]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small creature found in both salt and fresh water that lives in an asymmetrical shell rooted to the bottom.]
 	[NAME:mussel:mussels:mussel]
 	[CASTE_NAME:mussel:mussels:mussel]
@@ -60,6 +62,8 @@ creature_small_ocean
 			[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:OYSTER]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small marine creature that lives in a shell rooted to the sea floor.]
 	[NAME:oyster:oysters:oyster]
 	[CASTE_NAME:oyster:oysters:oyster]
@@ -115,6 +119,9 @@ creature_small_ocean
 			[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:FISH_SALMON]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized red fish that lives in the ocean and swims up a river to breed.]
 	[NAME:salmon:salmon:salmon]
 	[CASTE_NAME:salmon:salmon:salmon]
@@ -189,6 +196,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_CLOWNFISH]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny orange marine fish that lives inside the tentacles of a poisonous invertebrate.]
 	[NAME:clownfish:clownfish:clownfish]
 	[CASTE_NAME:clownfish:clownfish:clownfish]
@@ -259,6 +269,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_HAGFISH]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small, spineless, eel-like fish that lives on the bottom of the ocean.  It can turn the water around its body into a cloud of slime to escape predators.]
 	[NAME:hagfish:hagfish:hagfish]
 	[CASTE_NAME:hagfish:hagfish:hagfish]
@@ -327,6 +340,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_LAMPREY_BROOK]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small, jawless, filter-feeding fish found in brooks and streams.]
 	[NAME:brook lamprey:brook lampreys:brook lamprey]
 	[CASTE_NAME:brook lamprey:brook lampreys:brook lamprey]
@@ -396,6 +412,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_RAY_BAT]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized, winged fish found in the muddy coasts of both temperate and tropical waters.]
 	[NAME:bat ray:bat rays:bat ray]
 	[CASTE_NAME:bat ray:bat rays:bat ray]
@@ -464,6 +483,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_RAY_THORNBACK]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small winged fish found in shallow seas.]
 	[NAME:thornback ray:thornback rays:thornback ray]
 	[CASTE_NAME:thornback ray:thornback rays:thornback ray]
@@ -531,6 +553,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_RATFISH_SPOTTED]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small, shark-like creature that lives in the ocean's muddy shallows.  Its skin sparkles and it has a venomous spine on its back.]
 	[NAME:spotted ratfish:spotted ratfish:spotted ratfish]
 	[CASTE_NAME:spotted ratfish:spotted ratfish:spotted ratfish]
@@ -601,6 +626,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_HERRING]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny marine fish found in vast schools.]
 	[NAME:herring:herrings:herring]
 	[CASTE_NAME:herring:herrings:herring]
@@ -673,6 +701,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_SHAD]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small marine fish that travels to rivers to breed.]
 	[NAME:shad:shads:shad]
 	[CASTE_NAME:shad:shads:shad]
@@ -748,6 +779,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_ANCHOVY]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny blue-green oceanic fish, found only in temperate waters.]
 	[NAME:anchovy:anchovies:anchovy]
 	[CASTE_NAME:anchovy:anchovies:anchovy]
@@ -819,6 +853,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_TROUT_STEELHEAD]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized fish found in tributaries and oceans.]
 	[NAME:steelhead trout:steelhead trout:steelhead trout]
 	[CASTE_NAME:steelhead trout:steelhead trout:steelhead trout]
@@ -893,6 +930,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_HAKE]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:An oceanic fish.]
 	[NAME:hake:hake:hake]
 	[CASTE_NAME:hake:hake:hake]
@@ -965,6 +1005,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_SEAHORSE]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny, curved and colorful fish found in coral reefs.]
 	[NAME:seahorse:seahorses:seahorse]
 	[CASTE_NAME:seahorse:seahorses:seahorse]
@@ -1030,6 +1073,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_GLASSEYE]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small, nocturnal, marine fish.  It can be found hunting in coral reefs.]
 	[NAME:glasseye:glasseye:glasseye]
 	[CASTE_NAME:glasseye:glasseye:glasseye]
@@ -1101,6 +1147,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_PUFFER_WHITE_SPOTTED]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small, round, brightly-colored fish found in coral reefs.]
 	[NAME:white-spotted puffer:white-spotted puffers:white-spotted puffer]
 	[CASTE_NAME:white-spotted puffer:white-spotted puffers:white-spotted puffer]
@@ -1165,6 +1214,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_SOLE]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small flat fish found on the muddy bottom of shallow seas.]
 	[NAME:sole:sole:sole]
 	[CASTE_NAME:sole:sole:sole]
@@ -1236,6 +1288,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_FLOUNDER]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small flat fish found in the muddy bottom of coastal run-offs and ponds.]
 	[NAME:flounder:flounders:flounder]
 	[CASTE_NAME:flounder:flounders:flounder]
@@ -1306,6 +1361,9 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_MACKEREL]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized oceanic fish prized for its meat.]
 	[NAME:mackerel:mackerel:mackerel]
 	[CASTE_NAME:mackerel:mackerel:mackerel]
@@ -1378,6 +1436,8 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:JELLYFISH_SEA_NETTLE]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:An invertebrate found off the coast.  It has a sting which can be severe.]
 	[NAME:sea nettle jellyfish:sea nettle jellyfish:sea nettle jellyfish]
 	[CASTE_NAME:sea nettle jellyfish:sea nettle jellyfish:sea nettle jellyfish]
@@ -1425,6 +1485,8 @@ Squids were sponsored by the generous contributions of the Bay 12 community.
 	In loving memory of Reveredtour
 
 [CREATURE:SQUID]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny sea vermin with eight arms and two tentacles.  It can spray ink to confuse predators.]
 	[NAME:squid:squids:squid]
 	[CASTE_NAME:squid:squids:squid]
