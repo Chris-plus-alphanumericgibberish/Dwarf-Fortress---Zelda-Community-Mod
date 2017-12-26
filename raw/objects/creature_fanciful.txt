@@ -54,7 +54,7 @@ creature_fanciful
 	[CREATURE_TILE:'G'][COLOR:7:0:1]
 	[FANCIFUL]
 	[DOES_NOT_EXIST]
-	[PREFSTRING:strength]
+	[PREFSTRING:power]
 	[ALL_ACTIVE]
 	[CASTE:FEMALE]
 		[CASTE_NAME:goddess:goddesses:goddess]
