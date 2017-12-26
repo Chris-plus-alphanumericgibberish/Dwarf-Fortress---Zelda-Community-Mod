@@ -1,0 +1,66 @@
+descriptor_shape_standard
+
+[OBJECT:DESCRIPTOR_SHAPE]
+
+[SHAPE:KO_Z_TRIFORCE]
+	[NAME:triforce:triforce fragments]
+	[TILE:30]
+
+[SHAPE:WINGS]
+	[NAME:wing:wings]
+	[ADJ:feathered]
+	[ADJ:leathery]
+	[ADJ:bladed]
+	[ADJ:folded]
+	[TILE:'(']
+
+[SHAPE:HAND]
+	[NAME:hand:hands]
+	[ADJ:grasping]
+	[ADJ:clawed]
+	[ADJ:reaching]
+	[ADJ:crawling]
+	[TILE:253]
+
+[SHAPE:HANDS]
+	[NAME:pair of hands:pairs of hands]
+	[ADJ:grasping]
+	[ADJ:clasped]
+	[ADJ:reaching]
+	[ADJ:folded]
+	[TILE:253]
+
+[SHAPE:LOFT]
+	[NAME:loftwing:loftwings]
+	[ADJ:stylized]
+	[ADJ:flying]
+	[TILE:157]
+
+[SHAPE:KO_Z_WHIRRLPOOL]
+	[NAME:whirlpool:whirlpools]
+	[TILE:157]
+
+[SHAPE:KO_Z_SKULL]
+	[NAME:skull:skulls]
+	[WORD:SKULL]
+	[ADJ:horned]
+	[ADJ:humanoid]
+	[ADJ:animal]
+	[TILE:253]
+
+[SHAPE:KO_Z_STONE_GOSSIP]
+	[NAME:gossip stone:gossip stones]
+	[TILE:127]
+
+[SHAPE:KO_Z_EYE]
+	[NAME:eye:eyes]
+	[WORD:EYE]
+	[ADJ:crying]
+	[ADJ:closed]
+	[ADJ:obelus]
+	[ADJ:staring]
+	[TILE:253]
+
+[SHAPE:KO_Z_TONGUE_FACE]
+	[NAME:face sticking out its tongue:faces sticking out their tongues]
+	[TILE:2]
