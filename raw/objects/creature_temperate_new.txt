@@ -10,6 +10,8 @@ Wild boars were sponsored by the generous contributions of the Bay 12 community.
 	TheWanderer
 
 [CREATURE:WILD_BOAR]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized beast, known for its tusks and powerful build.]
 	[NAME:wild boar:wild boars:wild boar]
 	[CHILD:1][GENERAL_CHILD_NAME:wild boar piglet:wild boar piglets]
@@ -180,6 +182,8 @@ Coyotes were sponsored by the generous contributions of the Bay 12 community.
 	"The Trickster can find his way into anything, the hard part is getting out!"
 
 [CREATURE:COYOTE]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized dog-like creature.  It is sly, and groups can be heard howling in the night.]
 	[NAME:coyote:coyotes:coyote]
 	[CASTE_NAME:coyote:coyotes:coyote]
@@ -339,6 +343,8 @@ Kangaroos were sponsored by the generous contributions of the Bay 12 community.
 	Sponsored by Duncan Burke
 
 [CREATURE:KANGAROO]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized creature that can be found hopping through the grassland.]
 	[NAME:kangaroo:kangaroos:kangaroo]
 	[CHILD:1][GENERAL_CHILD_NAME:kangaroo joey:kangaroo joeys]
@@ -516,6 +522,8 @@ Koalas were sponsored by the generous contributions of the Bay 12 community.
 	Luis Naver
 
 [CREATURE:KOALA]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small, grey, tree-dwelling creature.]
 	[NAME:koala:koalas:koala]
 	[CASTE_NAME:koala:koalas:koala]
@@ -666,6 +674,9 @@ Adders were sponsored by the generous contributions of the Bay 12 community.
 	IL
 
 [CREATURE:ADDER]
+	[CREATURE_CLASS:OPHIDIAN]
+	[CREATURE_CLASS:POISONOUS]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small snake with ridged scales and a powerful venomous bite.]
 	[NAME:adder:adders:adder]
 	[CASTE_NAME:adder:adders:adder]
@@ -862,6 +873,8 @@ Echidnas were sponsored by the generous contributions of the Bay 12 community.
 	Strange guy
 
 [CREATURE:ECHIDNA]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small spiny mammal with a long snout.  It eats ants and termites and reproduces by laying eggs.]
 	[NAME:echidna:echidnas:echidna]
 	[CASTE_NAME:echidna:echidnas:echidna]
@@ -1020,6 +1033,8 @@ Porcupines were sponsored by the generous contributions of the Bay 12 community.
 	Netizen
 
 [CREATURE:PORCUPINE]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small rodent covered with sharp quills.  They eat grass and leaves and can even climb trees.]
 	[NAME:porcupine:porcupines:porcupine]
 	[CASTE_NAME:porcupine:porcupines:porcupine]
@@ -1182,6 +1197,8 @@ Kingsnakes were sponsored by the generous contributions of the Bay 12 community.
 	Ouroboros
 
 [CREATURE:KINGSNAKE]
+	[CREATURE_CLASS:OPHIDIAN]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny, brightly-colored snake.  It is known for eating other snakes and being mistaken for its poisonous cousins.]
 	[NAME:kingsnake:kingsnakes:kingsnake]
 	[CASTE_NAME:kingsnake:kingsnakes:kingsnake]
@@ -1323,6 +1340,8 @@ Gray langurs were sponsored by the generous contributions of the Bay 12 communit
 	Japa
 
 [CREATURE:GRAY_LANGUR]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small monkey that can be found in forests and the streets of towns.]
 	[NAME:gray langur:gray langurs:gray langur]
 	[CASTE_NAME:gray langur:gray langurs:gray langur]
@@ -1478,6 +1497,8 @@ Bobcats were sponsored by the generous contributions of the Bay 12 community.
 	MarineMorton
 
 [CREATURE:BOBCAT]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small feline predator with a shortened tail.]
 	[NAME:bobcat:bobcats:bobcat]
 	[CASTE_NAME:bobcat:bobcats:bobcat]
@@ -1632,6 +1653,8 @@ Bobcats were sponsored by the generous contributions of the Bay 12 community.
 Skunks were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:SKUNK]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small black and white mammal.  It is capable of spraying a stinking fluid.]
 	[NAME:skunk:skunks:skunk]
 	[CASTE_NAME:skunk:skunks:skunk]
@@ -1785,6 +1808,8 @@ Skunks were sponsored by the generous contributions of the Bay 12 community.
 Green tree frogs were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:GREEN_TREE_FROG]
+	[CREATURE_CLASS:AMPHIBIAN]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny amphibian that lives in the trees.]
 	[NAME:green tree frog:green tree frogs:green tree frog]
 	[CASTE_NAME:green tree frog:green tree frogs:green tree frog]
@@ -1910,6 +1935,8 @@ Hares were sponsored by the generous contributions of the Bay 12 community.
 	IL
 
 [CREATURE:HARE]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A swift, long-eared rodent with long legs and a short fluffy tail.]
 	[NAME:hare:hares:hare]
 	[GENERAL_CHILD_NAME:leveret:leverets]
@@ -2064,6 +2091,9 @@ Hares were sponsored by the generous contributions of the Bay 12 community.
 Rattlesnakes were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:RATTLESNAKE]
+	[CREATURE_CLASS:OPHIDIAN]
+	[CREATURE_CLASS:POISONOUS]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small reptile with a tell-tale rattle and vicious bite that leads to a quick death.]
 	[NAME:rattlesnake:rattlesnakes:rattlesnake]
 	[CASTE_NAME:rattlesnake:rattlesnakes:rattlesnake]
@@ -2252,6 +2282,8 @@ Weasels were sponsored by the generous contributions of the Bay 12 community.
 	Vorith
 
 [CREATURE:WEASEL]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny mammal with a slender body.  It hunts in mouse holes as well as barn yards.]
 	[NAME:weasel:weasels:weasel]
 	[CASTE_NAME:weasel:weasels:weasel]
@@ -2404,6 +2436,9 @@ Copperhead snakes were sponsored by the generous contributions of the Bay 12 com
 	For Joalton. Because it had to be snakes.
 
 [CREATURE:COPPERHEAD_SNAKE]
+	[CREATURE_CLASS:OPHIDIAN]
+	[CREATURE_CLASS:POISONOUS]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny venomous snake found in the woods and swamps.]
 	[NAME:copperhead snake:copperhead snakes:copperhead snake]
 	[CASTE_NAME:copperhead snake:copperhead snakes:copperhead snake]
@@ -2588,6 +2623,8 @@ Ibexes were sponsored by the generous contributions of the Bay 12 community.
 	Stam, haMevin yavin, ya manyak - Josh B
 
 [CREATURE:IBEX]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small horned mammal.  It can be found in the mountains leaping from rock to rock.]
 	[NAME:ibex:ibexes:ibex]
 	[CASTE_NAME:ibex:ibexes:ibex]
@@ -2746,6 +2783,8 @@ Wombats were sponsored by the generous contributions of the Bay 12 community.
 	culling66
 
 [CREATURE:WOMBAT]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small, stocky mammal.  It is found from the mountains to the woodlands.]
 	[NAME:wombat:wombats:wombat]
 	[CASTE_NAME:wombat:wombats:wombat]
@@ -2899,6 +2938,8 @@ Dingoes were sponsored by the generous contributions of the Bay 12 community.
 	culling66
 
 [CREATURE:DINGO]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small dog-like creature.  They are known to attack livestock.]
 	[NAME:dingo:dingoes:dingo]
 	[CASTE_NAME:dingo:dingoes:dingo]
@@ -3048,6 +3089,8 @@ Dingoes were sponsored by the generous contributions of the Bay 12 community.
 Coatis were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:COATI]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small, long-nosed raccoon-like creature.]
 	[NAME:coati:coatis:coati]
 	[CASTE_NAME:coati:coatis:coati]
@@ -3200,6 +3243,8 @@ Opossums were sponsored by the generous contributions of the Bay 12 community.
 	The master-plan unfolds, silent sinister / Is there any hope left, Opossum Minister?
 
 [CREATURE:OPOSSUM]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small mammal resembling a large, white rat.]
 	[NAME:opossum:opossums:opossum]
 	[CASTE_NAME:opossum:opossums:opossum]

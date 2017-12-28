@@ -3,6 +3,7 @@ creature_zelda_noctis
 [OBJECT:CREATURE]
 
 [CREATURE:KO_HYRULE_BOGEIES]
+	[CREATURE_CLASS:MONSTER]
 	[GLOWTILE:'"'][GLOWCOLOR:4:0:1]
 	[ATTACK_TRIGGER:20:0:0]
 	[NIGHT_CREATURE_BOGEYMAN][LARGE_PREDATOR][CLUSTER_NUMBER:4:6][LIKES_FIGHTING]
@@ -577,6 +578,7 @@ creature_zelda_noctis
 			[TL_HEALING_RATE:1000]
 
 [CREATURE:GARO_CIV]
+	[CREATURE_CLASS:MONSTER]
 	[GLOWTILE:'"'][GLOWCOLOR:2:0:1]
 	 NIGHT_CREATURE_BOGEYMAN [LARGE_PREDATOR][LIKES_FIGHTING]
 	[PROFESSION_NAME:BLOWGUNMAN:lost ninja:lost ninja]
@@ -707,6 +709,7 @@ creature_zelda_noctis
 	[NIGHT_CREATURE_BOGEYMAN]
 
 [CREATURE:KO_Z_GIBDO_1]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:gibdo:gibdos:gibdo]
 	[CREATURE_TILE:'G'][COLOR:7:0:1]
 	[CAN_LEARN]
@@ -841,6 +844,7 @@ creature_zelda_noctis
 
 
 [CREATURE:KO_Z_GIBDO_2]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:gibdo:gibdos:gibdo]
 	[CREATURE_TILE:'G'][COLOR:7:0:1]
 	[CAN_LEARN]
@@ -974,6 +978,7 @@ creature_zelda_noctis
 			[TL_HEALING_RATE:1]
 
 [CREATURE:KO_Z_GIBDO_3]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:gibdo:gibdos:gibdo]
 	[CREATURE_TILE:'G'][COLOR:7:0:1]
 	[CAN_LEARN]
@@ -1107,6 +1112,7 @@ creature_zelda_noctis
 			[TL_HEALING_RATE:1]
 
 [CREATURE:KO_Z_GIBDO_4]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:gibdo:gibdos:gibdo]
 	[CREATURE_TILE:'G'][COLOR:7:0:1]
 	[CAN_LEARN]
@@ -1240,6 +1246,7 @@ creature_zelda_noctis
 			[TL_HEALING_RATE:1]
 
 [CREATURE:KO_Z_GIBDO_5]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:gibdo:gibdos:gibdo]
 	[CREATURE_TILE:'G'][COLOR:7:0:1]
 	[CAN_LEARN]
@@ -1373,6 +1380,7 @@ creature_zelda_noctis
 			[TL_HEALING_RATE:1]
 
 [CREATURE:KO_Z_GIBDO_6]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:gibdo:gibdos:gibdo]
 	[CREATURE_TILE:'G'][COLOR:7:0:1]
 	[CAN_LEARN]
@@ -1506,6 +1514,7 @@ creature_zelda_noctis
 			[TL_HEALING_RATE:1]
 
 [CREATURE:KO_Z_GIBDO_7]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:gibdo:gibdos:gibdo]
 	[CREATURE_TILE:'G'][COLOR:7:0:1]
 	[CAN_LEARN]
@@ -1639,6 +1648,7 @@ creature_zelda_noctis
 			[TL_HEALING_RATE:1]
 
 [CREATURE:KO_Z_GIBDO_8]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:gibdo:gibdos:gibdo]
 	[CREATURE_TILE:'G'][COLOR:7:0:1]
 	[CAN_LEARN]
@@ -1772,6 +1782,7 @@ creature_zelda_noctis
 			[TL_HEALING_RATE:1]
 
 [CREATURE:KO_Z_GIBDO_9]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:gibdo:gibdos:gibdo]
 	[CREATURE_TILE:'G'][COLOR:7:0:1]
 	[CAN_LEARN]
@@ -1905,6 +1916,7 @@ creature_zelda_noctis
 			[TL_HEALING_RATE:1]
 
 [CREATURE:KO_Z_GIBDO_10]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:gibdo:gibdos:gibdo]
 	[CREATURE_TILE:'G'][COLOR:7:0:1]
 	[CAN_LEARN]
@@ -2038,6 +2050,7 @@ creature_zelda_noctis
 			[TL_HEALING_RATE:1]
 
 [CREATURE:KO_Z_GIBDO_11]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:gibdo:gibdos:gibdo]
 	[CREATURE_TILE:'G'][COLOR:7:0:1]
 	[CAN_LEARN]
@@ -2172,6 +2185,7 @@ creature_zelda_noctis
 
 
 [CREATURE:KO_Z_GIBDO_12]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:gibdo:gibdos:gibdo]
 	[CREATURE_TILE:'G'][COLOR:7:0:1]
 	[CAN_LEARN]
@@ -2311,6 +2325,7 @@ creature_zelda_noctis
 
 
 [CREATURE:SHADOW_BEAST]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:shadow beast:shadow beasts:shadow beast]
 	[CREATURE_TILE:165][COLOR:0:0:0]
 	[GLOWTILE:202][GLOWCOLOR:4:0:1]
@@ -2501,6 +2516,8 @@ creature_zelda_noctis
 		[TL_HEALING_RATE:1]
 
 [CREATURE:KO_Z_DARK_BEAST_HUNTER]
+	[CREATURE_CLASS:INTELLIGENT]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:dark beast:dark beasts:dark-beast]
 	[CASTE:DBH]
 	[CASTE_NAME:dark beast:dark beasts:dark-beast]
@@ -2612,6 +2629,7 @@ creature_zelda_noctis
 		[IGNITE_POINT:NONE]
 
 [CREATURE:CORPSE_KNUCKLE]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:An eerily silent armored knight.]
 	[PRONE_TO_RAGE:100]
 	[NAME:knuckle:knuckles:knuckle]
@@ -2701,6 +2719,7 @@ creature_zelda_noctis
 		[TISSUE_LAYER:BY_CATEGORY:ARMOR:ARMORMATC]
 
 [CREATURE:STALFOS]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:stalfos:stalfos:stalfos]
 	[CREATURE_TILE:'S'][COLOR:7:0:1]
 	[PROFESSION_NAME:BLOWGUNMAN:specialist:specialists]
@@ -2900,6 +2919,8 @@ creature_zelda_noctis
 
 
 [CREATURE:STALFOS_RISEN]
+	[CREATURE_CLASS:FAIRY]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:stalfos:stalfos:stalfos]
 	[CREATURE_TILE:'S'][COLOR:7:0:1]
 	[PROFESSION_NAME:BLOWGUNMAN:specialist:specialists]
@@ -3108,6 +3129,8 @@ creature_zelda_noctis
 			[TL_HEALING_RATE:1]
 
 [CREATURE:POE_RISEN]
+	[CREATURE_CLASS:FAIRY]
+	[CREATURE_CLASS:MONSTER]
 	[GLOWTILE:'"'][GLOWCOLOR:2:0:1]
 	[MAXAGE:1:1]
 	 NIGHT_CREATURE_BOGEYMAN [LARGE_PREDATOR][LIKES_FIGHTING]
@@ -3228,6 +3251,8 @@ creature_zelda_noctis
 			[TL_HEALING_RATE:1000]
 
 [CREATURE:KOROFOS_RISEN]
+	[CREATURE_CLASS:FAIRY]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A strange humanoid tree.]
 	[GLOWTILE:'"'][GLOWCOLOR:2:0:1]
 	[MAXAGE:1:1]

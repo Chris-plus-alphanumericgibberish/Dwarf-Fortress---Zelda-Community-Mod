@@ -3,6 +3,7 @@ creature_zelda_beast
 [OBJECT:CREATURE]
 
 [CREATURE:KO_Z_ARMOS]
+	[CREATURE_CLASS:MONSTER]
 	[NAME:armos:armos:armos]
 	[CREATURE_TILE:234][COLOR:0:0:1]
 	[BIOME:SUBTERRANEAN_CHASM]
@@ -122,6 +123,7 @@ creature_zelda_beast
 		[HOMEOTHERM:10040]
 
 [CREATURE:KO_Z_BABASU]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A strange shadowy creature living underground.]
 	[PRONE_TO_RAGE:50]
 	[NAME:babasu:babasus:babasu]
@@ -205,6 +207,7 @@ creature_zelda_beast
 		[POP_RATIO:10]
 
 [CREATURE:KO_Z_BAT_BAD]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A giant flying mammal found underground.]
 	[PRONE_TO_RAGE:10]
 	[NAME:bad bat:bad bats:bad bat]
@@ -349,6 +352,7 @@ creature_zelda_beast
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:KO_Z_BOE_BLACK]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A small ball of shadow living underground.]
 	[PRONE_TO_RAGE:10]
 	[NAME:black boe:black boes:black boe]
@@ -434,6 +438,7 @@ creature_zelda_beast
 		[POP_RATIO:10]
 
 [CREATURE:KO_Z_BUBBLE_RED]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A large flying skull surrounded by red flames.]
 	[PRONE_TO_RAGE:100]
 	[NAME:red bubble:red bubbles:red bubble]
@@ -520,6 +525,7 @@ creature_zelda_beast
 		[POP_RATIO:10]
 
 [CREATURE:KO_Z_BUBBLE_BLUE]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A large flying skull surrounded by blue flames.]
 	[PRONE_TO_RAGE:100]
 	[NAME:blue bubble:blue bubbles:blue bubble]
@@ -613,6 +619,8 @@ creature_zelda_beast
 		[POP_RATIO:10]
 
 [CREATURE:KO_Z_BULLBO]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A huge piglike creature used as a mount by evil creatures. It is easily enraged and hard to control.]
 	[NAME:bullbo:bullbos:bullbo]
 	[CHILD:1][GENERAL_CHILD_NAME:bullbo piglet:bullbo piglets]
@@ -721,6 +729,7 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_CHU]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A blob. It leaves behind globs of its own liquid.]
 	[PRONE_TO_RAGE:5]
 	[NAME:chu:chus:chu]
@@ -867,6 +876,8 @@ creature_zelda_beast
 	[NO_FEVERS]
 
 [CREATURE:KO_Z_BIO_DEKU_BABA]
+	[CREATURE_CLASS:PLANT]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A large, flesh-eating plant that crawles around on its severed stem.]
 	[PRONE_TO_RAGE:100]
 	[NAME:bio deku baba:bio deku baba:bio deku baba]
@@ -973,6 +984,8 @@ creature_zelda_beast
 
 
 [CREATURE:KO_Z_DODONGO_RED]
+	[CREATURE_CLASS:LIZARD]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A red-scaled reptile similar to a dodongo, lacking most of a dodongo's strong features. They are smart and can speak, however.]
 	[NAME:red dodongo:red dodongos:red dodongo]
 	[CASTE_NAME:red dodongo:red dodongos:red dodongo]
@@ -1072,6 +1085,7 @@ creature_zelda_beast
 
 
 [CREATURE:KO_Z_GELDMAN]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A humanoid creature consisting of sand.  Some human tribes know them as geldmen.]
 	[PRONE_TO_RAGE:50]
 	[NAME:gerudman:gerudmen:gerudman]
@@ -1168,6 +1182,8 @@ creature_zelda_beast
 		[POP_RATIO:10]
 
 [CREATURE:KO_Z_GYORG_SHARK]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A large oceanic fish with sharp pointed teeth and a rocky head with rhino-like horns.]
 	[NAME:gyorg shark:gyorg sharks:gyorg shark]
 	[CASTE_NAME:gyorg shark:gyorg sharks:gyorg shark]
@@ -1272,6 +1288,8 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_HELMASAUR]
+	[CREATURE_CLASS:LIZARD]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A large reptile with a steel helmet.]
 	[PRONE_TO_RAGE:10]
 	[NAME:helmasaur:helmasaurs:helmasaurid]
@@ -1467,6 +1485,8 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_KARGAROK]
+	[CREATURE_CLASS:AVIAN]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A large bird found in many location. It is known for its beautiful feathers and is often used by evil creatures for transportation.]
 	[NAME:kargarok:kargaroks:kargarok]
 	[CASTE_NAME:kargarok:kargaroks:kargarok]
@@ -1643,6 +1663,7 @@ creature_zelda_beast
 		[MULTIPLY_VALUE:4]
 
 [CREATURE:KO_Z_KEESE_FIRE]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A small mammal found underground, flying ablaze.]
 	[PRONE_TO_RAGE:10]
 	[NAME:fire keese:fire keeses:fire keese]
@@ -1797,6 +1818,7 @@ creature_zelda_beast
 		[VASCULAR:0]
 
 [CREATURE:KO_Z_KEESE_LARGE]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A small mammal found underground.]
 	[PRONE_TO_RAGE:10]
 	[NAME:keese:keeses:keese]
@@ -1941,6 +1963,8 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_MOLDORM]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A large worm-like beast living in the desert.]
 	[PRONE_TO_RAGE:10]
 	[NAME:moldorm:moldorms:moldorm]
@@ -2079,6 +2103,8 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_OCTO_RED]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A small land-bound octopus capable of shooting rocks.]
 	[PRONE_TO_RAGE:50]
 	[NAME:red octoroc:red octorocs:red octoroc]
@@ -2227,6 +2253,9 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_OCTO_WINGED]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:AVIAN]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A small, winged octopus capable of shooting rocks.]
 	[PRONE_TO_RAGE:50]
 	[NAME:winged octoroc:winged octorocs:winged octoroc]
@@ -2374,6 +2403,8 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_OCTO_BLUE]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A small land-bound octopus capable of shooting rocks.]
 	[PRONE_TO_RAGE:75]
 	[NAME:blue octoroc:blue octorocs:blue octoroc]
@@ -2523,6 +2554,8 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_OCTO_PURPLE]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A small aquatic octopod capable of shooting rocks.]
 	[PRONE_TO_RAGE:50]
 	[NAME:purple octoroc:purple octorocs:purple octoroc]
@@ -2675,6 +2708,8 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_OCTO_PINK]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A small aquatic octopod capable of shooting explosives.]
 	[PRONE_TO_RAGE:75]
 	[NAME:pink octoroc:pink octorocs:pink octoroc]
@@ -2828,6 +2863,10 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_PENGATOR]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:AVIAN]
+	[CREATURE_CLASS:LIZARD]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A medium-sized flightless bird living in the arctic, with a body similar to a penguin, but feather coloration and a bill resembling an alligator.]
 	[NAME:pengator:pengators:pengator]
 	[CASTE_NAME:pengator:pengators:pengator]
@@ -2983,6 +3022,7 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_POLS_VOICE]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A yellow slimelike creature with rabbit ears.]
 	[PRONE_TO_RAGE:50]
 	[NAME:pols voice:pols voices:pols voice]
@@ -3108,6 +3148,8 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_TERRORPIN]
+	[CREATURE_CLASS:LIZARD]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A turtle-like reptile with a hard shell, apparently lacking a head.]
 	[PRONE_TO_RAGE:10]
 	[NAME:terrorpin:terrorpins:terrorpin]
@@ -3264,6 +3306,8 @@ creature_zelda_beast
 				[TLCM_NOUN:shell:SINGULAR]
 
 [CREATURE:KO_Z_ROPE]
+	[CREATURE_CLASS:OPHIDIAN]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A green-scaled snake found nearly everywhere.]
 	[PRONE_TO_RAGE:50]
 	[NAME:rope:ropes:ropy]
@@ -3428,6 +3472,9 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_SKULLTULA]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:POISONOUS]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A large spider with a bony back.]
 	[PRONE_TO_RAGE:100]
 	[NAME:skulltula:skulltulas:skulltula]
@@ -3601,6 +3648,9 @@ creature_zelda_beast
 		[MULTIPLY_VALUE:2]
 
 [CREATURE:KO_Z_SKULLTULA_WALL]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:POISONOUS]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A small spider with a bony back.]
 	[PRONE_TO_RAGE:10]
 	[NAME:skullwalltula:skullwalltulas:skullwalltula]
@@ -3759,6 +3809,9 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_SKULLTULA_GOLD]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:POISONOUS]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A small spider with a golden back.]
 	[PRONE_TO_RAGE:5]
 	[NAME:golden skulltula:golden skulltulas:golden skulltula]
@@ -3869,6 +3922,8 @@ creature_zelda_beast
 		[MULTIPLY_VALUE:30]
 ##NEW
 [CREATURE:KO_Z_SNAPDRAGON]
+	[CREATURE_CLASS:PLANT]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A medium-sized, evil plant beast with a body that is little more than a huge maw, and two legs on which it hops around. It is said to be the creation of a mad alchemist.]
 	[NAME:snapdragon:snapdragons:snapdragon]
 	[CASTE_NAME:snapdragon:snapdragons:snapdragon]
@@ -3974,6 +4029,7 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_STARMAN]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A small seastar-like humanoid.]
 	[PRONE_TO_RAGE:10]
 	[NAME:starman:starmen:starman]
@@ -4109,6 +4165,8 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_STINGER]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A large manta-ray-like creature with great wings. While it lives in the underground seas, it can fly easily.]
 	[PRONE_TO_RAGE:10]
 	[NAME:stinger:stingers:stinger]
@@ -4233,6 +4291,7 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_TORCH_SLUG]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A big red slug constantly on fire.]
 	[PRONE_TO_RAGE:1]
 	[NAME:torch slug:torch slugs:torch slug]
@@ -4323,6 +4382,7 @@ creature_zelda_beast
 		[POP_RATIO:10]
 
 [CREATURE:KO_Z_VIRE]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A demonic humanoid that moves by flying hops.]
 	[PRONE_TO_RAGE:100]
 	[NAME:vire:vires:vire]
@@ -4461,6 +4521,7 @@ creature_zelda_beast
 		[MULTIPLY_VALUE:5]
 
 [CREATURE:KO_Z_ZOL]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A strange blue blob. It splits into smaller blobs upon death.]
 	[PRONE_TO_RAGE:50]
 	[NAME:zol:zols:zol]
@@ -4519,6 +4580,9 @@ creature_zelda_beast
 			[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:KO_Z_ZORA_RIVER]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:INTELLIGENT]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A humanoid fish that spits rocks.]
 	[PRONE_TO_RAGE:10]
 	[NAME:river zora:river zoras:river zoran]
@@ -4738,6 +4802,9 @@ creature_zelda_beast
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FALLEN_PICORI]
+	[CREATURE_CLASS:INTELLIGENT]
+	[CREATURE_CLASS:FAIRY]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A small humanoid creature with a mischievous, toothy grin.]
 	[NAME:fallen picori:fallen picori:picori]
 	[CASTE_NAME:fallen picori:fallen picori:picori]

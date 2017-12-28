@@ -3,6 +3,9 @@ creature_small_riverlake
 [OBJECT:CREATURE]
 
 [CREATURE:FISH_LUNGFISH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small fish which can walk on the land and breathe air.  It burrows in the mud when things get dry.]
 	[NAME:lungfish:lungfish:lungfish]
 	[CASTE_NAME:lungfish:lungfish:lungfish]
@@ -84,6 +87,9 @@ creature_small_riverlake
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_LOACH_CLOWN]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny orange-striped fish.  It lives in inland waters.]
 	[NAME:clown loach:clown loaches:clown loach]
 	[CASTE_NAME:clown loach:clown loaches:clown loach]
@@ -155,6 +161,9 @@ creature_small_riverlake
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_BULLHEAD_BROWN]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small whiskered fish found in muddy inland waters.]
 	[NAME:brown bullhead:brown bullheads:brown bullhead]
 	[CASTE_NAME:brown bullhead:brown bullheads:brown bullhead]
@@ -226,6 +235,9 @@ creature_small_riverlake
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_BULLHEAD_YELLOW]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small whiskered fish found scavenging in inland waters.]
 	[NAME:yellow bullhead:yellow bullheads:yellow bullhead]
 	[CASTE_NAME:yellow bullhead:yellow bullheads:yellow bullhead]
@@ -297,6 +309,9 @@ creature_small_riverlake
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_BULLHEAD_BLACK]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small whiskered fish found in inland waters.]
 	[NAME:black bullhead:black bullheads:black bullhead]
 	[CASTE_NAME:black bullhead:black bullheads:black bullhead]
@@ -368,6 +383,9 @@ creature_small_riverlake
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_KNIFEFISH_BANDED]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small spotted fish found in tropical rivers and lakes.]
 	[NAME:banded knifefish:banded knifefish:banded knifefish]
 	[CASTE_NAME:banded knifefish:banded knifefish:banded knifefish]
@@ -439,6 +457,9 @@ creature_small_riverlake
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_CHAR]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized spotted fish found in temperate lakes and rivers.]
 	[NAME:char:char:char]
 	[CASTE_NAME:char:char:char]
@@ -510,6 +531,9 @@ creature_small_riverlake
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_TROUT_RAINBOW]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized spotted fish found in temperate rivers and lakes.]
 	[NAME:rainbow trout:rainbow trout:rainbow trout]
 	[CASTE_NAME:rainbow trout:rainbow trout:rainbow trout]
@@ -581,6 +605,9 @@ creature_small_riverlake
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_MOLLY_SAILFIN]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny spotted fish found in coastal rivers and temperate lakes.]
 	[NAME:sailfin molly:sailfin mollies:sailfin molly]
 	[CASTE_NAME:sailfin molly:sailfin mollies:sailfin molly]
@@ -656,6 +683,9 @@ creature_small_riverlake
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_GUPPY]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny colorful fish found in tropical lakes and rivers.]
 	[NAME:guppy:guppies:guppy]
 	[CASTE_NAME:guppy:guppies:guppy]
@@ -731,6 +761,9 @@ creature_small_riverlake
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_PERCH]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small striped fish found in fresh water.]
 	[NAME:perch:perch:perch]
 	[CASTE_NAME:perch:perch:perch]

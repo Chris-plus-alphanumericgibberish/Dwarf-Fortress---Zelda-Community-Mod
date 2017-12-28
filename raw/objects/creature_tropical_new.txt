@@ -10,6 +10,8 @@ Mongooses were sponsored by the generous contributions of the Bay 12 community.
 	DevHyfes - Should this journey lead to death, we ride together!
 
 [CREATURE:MONGOOSE]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A very small mammal with short legs and a long tail.  It hunts small animals to eat.]
 	[NAME:mongoose:mongooses:mongoose]
 	[CASTE_NAME:mongoose:mongooses:mongoose]
@@ -162,6 +164,8 @@ Hyenas were sponsored by the generous contributions of the Bay 12 community.
 	Cruxador
 
 [CREATURE:HYENA]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized pack predator found in the savanna.]
 	[NAME:hyena:hyenas:hyena]
 	[CASTE_NAME:hyena:hyenas:hyena]
@@ -317,6 +321,8 @@ Anacondas were sponsored by the generous contributions of the Bay 12 community.
 	Jayson French - "May these creatures be blessed with the alacrity and lethality of the mighty carp."
 
 [CREATURE:ANACONDA]
+	[CREATURE_CLASS:OPHIDIAN]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized snake that lives in the trees.  It eats prey much larger than itself and slays them by crushing them to death.]
 	[NAME:anaconda:anacondas:anaconda]
 	[CASTE_NAME:anaconda:anacondas:anaconda]
@@ -450,6 +456,8 @@ Monitor lizards were sponsored by the generous contributions of the Bay 12 commu
 	Hi, Zari
 
 [CREATURE:MONITOR_LIZARD]
+	[CREATURE_CLASS:LIZARD]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized reptile.  They can be found foraging for food such as eggs or worms.  They are said to be the most intelligent of their kind.]
 	[NAME:monitor lizard:monitor lizards:monitor lizard]
 	[CASTE_NAME:monitor lizard:monitor lizards:monitor lizard]
@@ -602,6 +610,9 @@ King cobras were sponsored by the generous contributions of the Bay 12 community
 	Sponsored by cosh - <3 DF
 
 [CREATURE:KING_COBRA]
+	[CREATURE_CLASS:OPHIDIAN]
+	[CREATURE_CLASS:POISONOUS]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small limbless reptile known for its deadly venom and the warning of its hood.]
 	[NAME:king cobra:king cobras:king cobra]
 	[CASTE_NAME:king cobra:king cobras:king cobra]
@@ -793,6 +804,8 @@ Ocelots were sponsored by the generous contributions of the Bay 12 community.
 	Stephmo
 
 [CREATURE:OCELOT]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small cat-like creature found in the jungle.]
 	[NAME:ocelot:ocelots:ocelot]
 	[CASTE_NAME:ocelot:ocelots:ocelot]
@@ -948,6 +961,8 @@ Jackals were sponsored by the generous contributions of the Bay 12 community.
 	Cruxador
 
 [CREATURE:JACKAL]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small wolf-like scavenger.  Normally found in pairs, jackals can form packs when they find a body.]
 	[NAME:jackal:jackals:jackal]
 	[CASTE_NAME:jackal:jackals:jackal]
@@ -1099,6 +1114,8 @@ Capuchins were sponsored by the generous contributions of the Bay 12 community.
 	DoubleDuke
 
 [CREATURE:CAPUCHIN]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny diurnal monkey.  It spends its time in the trees searching for food.]
 	[NAME:capuchin:capuchins:capuchin]
 	[CASTE_NAME:capuchin:capuchins:capuchin]
@@ -1249,6 +1266,8 @@ Capuchins were sponsored by the generous contributions of the Bay 12 community.
 Sloths were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:SLOTH]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small, slow-moving mammal that lives in the trees.]
 	[NAME:sloth:sloths:sloth]
 	[CASTE_NAME:sloth:sloths:sloth]
@@ -1396,6 +1415,8 @@ Spider monkeys were sponsored by the generous contributions of the Bay 12 commun
 	Matt Umbro
 
 [CREATURE:SPIDER_MONKEY]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small animal found in the canopy of the jungle.  They have extremely long arms and legs.]
 	[NAME:spider monkey:spider monkeys:spider monkey]
 	[CASTE_NAME:spider monkey:spider monkeys:spider monkey]
@@ -1544,6 +1565,8 @@ Spider monkeys were sponsored by the generous contributions of the Bay 12 commun
 Pangolins were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:PANGOLIN]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small mammal covered in hard scales.  It has a long nose and tongue which it uses to feed.]
 	[NAME:pangolin:pangolins:pangolin]
 	[CASTE_NAME:pangolin:pangolins:pangolin]
@@ -1702,6 +1725,9 @@ Pangolins were sponsored by the generous contributions of the Bay 12 community.
 Black mambas were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BLACK_MAMBA]
+	[CREATURE_CLASS:OPHIDIAN]
+	[CREATURE_CLASS:POISONOUS]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small aggressive snake which can move very quickly.  Its venom is deadly.]
 	[NAME:black mamba:black mambas:black mamba]
 	[CASTE_NAME:black mamba:black mambas:black mamba]
@@ -1899,6 +1925,8 @@ Black mambas were sponsored by the generous contributions of the Bay 12 communit
 Sloth bears were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BEAR_SLOTH]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized mammal that lives in the trees.  It is known for its easy-going nature.]
 	[NAME:sloth bear:sloth bears:sloth bear]
 	[CASTE_NAME:sloth bear:sloth bears:sloth bear]
@@ -2051,6 +2079,8 @@ Aye-ayes were sponsored by the generous contributions of the Bay 12 community.
 	LASD
 
 [CREATURE:AYE-AYE]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small, nocturnal, tree-dwelling mammal.  It uses its long fingers to fish out grubs from the wood.]
 	[NAME:aye-aye:aye-ayes:aye-aye]
 	[CASTE_NAME:aye-aye:aye-ayes:aye-aye]
@@ -2202,6 +2232,9 @@ Bushmasters were sponsored by the generous contributions of the Bay 12 community
       HH    \#\
 
 [CREATURE:BUSHMASTER]
+	[CREATURE_CLASS:OPHIDIAN]
+	[CREATURE_CLASS:POISONOUS]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny venomous snake.  It is the longest of the pit vipers.]
 	[NAME:bushmaster:bushmasters:bushmaster]
 	[CASTE_NAME:bushmaster:bushmasters:bushmaster]
@@ -2396,6 +2429,8 @@ Pythons were sponsored by the generous contributions of the Bay 12 community.
 	RusAnon: for the symbol of best programming language
 
 [CREATURE:PYTHON]
+	[CREATURE_CLASS:OPHIDIAN]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small snake found in the trees.  It kills its prey by using its long body to constrict them.]
 	[NAME:python:pythons:python]
 	[CASTE_NAME:python:pythons:python]
@@ -2534,6 +2569,8 @@ Tapirs were sponsored by the generous contributions of the Bay 12 community.
 	Samthere - Release the war tapirs!
 
 [CREATURE:TAPIR]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized mammal with a prehensile nose.  It lives in the tropical rainforest.]
 	[NAME:tapir:tapirs:tapir]
 	[CASTE_NAME:tapir:tapirs:tapir]
@@ -2701,6 +2738,8 @@ Tapirs were sponsored by the generous contributions of the Bay 12 community.
 Impalas were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:IMPALA]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small, slender gazelle-like creature.]
 	[NAME:impala:impalas:impala]
 	[CASTE_NAME:impala:impalas:impala]
@@ -2853,6 +2892,8 @@ Aardvarks were sponsored by the generous contributions of the Bay 12 community.
 	Morty TC
 
 [CREATURE:AARDVARK]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small, nocturnal mammal.  It has a long tongue with which to eat insects.]
 	[NAME:aardvark:aardvarks:aardvark]
 	[CASTE_NAME:aardvark:aardvarks:aardvark]
@@ -3006,6 +3047,8 @@ Lion tamarins were sponsored by the generous contributions of the Bay 12 communi
 	kynalvarus hopes that those reading this will help http://www.savetheliontamarin.org/
 
 [CREATURE:LION_TAMARIN]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small orange monkey with a long tail.]
 	[NAME:lion tamarin:lion tamarins:lion tamarin]
 	[CASTE_NAME:lion tamarin:lion tamarins:lion tamarin]

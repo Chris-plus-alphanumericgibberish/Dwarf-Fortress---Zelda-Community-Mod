@@ -3,6 +3,9 @@ creature_test
  OBJECT:CREATURE 
 
 [CREATURE:TEST_CREATURE]
+	[CREATURE_CLASS:MAMMAL]
+	[CREATURE_CLASS:INTELLIGENT]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A strange creature.]
 	[NAME:test:tests:testian]
 	[CASTE_NAME:test:tests:testian]

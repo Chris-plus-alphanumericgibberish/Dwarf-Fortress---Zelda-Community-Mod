@@ -3,6 +3,7 @@ creature_zelda_-2_FPTRRL
 [OBJECT:CREATURE]
 
 [CREATURE:JELLY]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:An aggressive gelatinous blob that shoots rocks while slowly move away from creatures.]
 	 PRONE_TO_RAGE:50 Instead shoots rocks at pretty much anything.
 	[NAME:jelly:jellies:jelly]
@@ -108,6 +109,8 @@ creature_zelda_-2_FPTRRL
 
 
 [CREATURE:MASTERWORK_FISH_CATFISH_ARMS]
+	[CREATURE_CLASS:FISH]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A whiskered freshwater fish without scales found feeding on the bottom of water bodies. When startled, they grow a pair of humanoid arms]
 	[NAME:catfish:catfish:catfish]
 	[CASTE_NAME:catfish:catfish:catfish]

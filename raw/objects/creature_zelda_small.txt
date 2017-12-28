@@ -3,6 +3,9 @@ creature_zelda_small
 [OBJECT:CREATURE]
 
 [CREATURE:KO_Z_CRAB]
+	[CREATURE_CLASS:BUG]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small crustacean with powerful pincers.]
 	[NAME:crab:crabs:crab]
 	[CASTE_NAME:crab:crabs:crab]
@@ -79,6 +82,7 @@ creature_zelda_small
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_GEL]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A strange blue blob. It is usually split from a larger blob upon death.]
 	[NAME:gel:gels:gel]
 	[CASTE_NAME:gel:gels:gel]
@@ -134,6 +138,7 @@ creature_zelda_small
 			[TLCM_NOUN:skin:SINGULAR]
 
 [CREATURE:KO_Z_KEESE]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A tiny winged creature that hunts at night and rests in caves during the day.]
 	[NAME:tiny keese:tiny keeses:keese]
 	[CASTE_NAME:tiny keese:tiny keeses:keese]
@@ -219,6 +224,7 @@ creature_zelda_small
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:KO_Z_KEESE_EYE]
+	[CREATURE_CLASS:MONSTER]
 	[DESCRIPTION:A tiny eye with bat-like wings.]
 	[NAME:eye keese:eye keeses:eye keese]
 	[CASTE_NAME:eye keese:eye keeses:eye keese]
@@ -291,6 +297,8 @@ creature_zelda_small
 				[TLCM_NOUN:eye:SINGULAR]
 
 [CREATURE:PICORI]
+	[CREATURE_CLASS:INTELLIGENT]
+	[CREATURE_CLASS:FAIRY]
 	[DESCRIPTION:]
 	[NAME:picori:picoris:picori]
 	[CASTE_NAME:picori:picoris:picori]
