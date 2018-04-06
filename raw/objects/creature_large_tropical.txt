@@ -4,7 +4,8 @@ creature_large_tropical
 
 [CREATURE:ELEPHANT]
 	[CREATURE_CLASS:MAMMAL]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A huge, hairless mammal, found grazing in grasslands in groups.  It eats plants which it lifts up with its long trunk.  When angered, it will attack with its long tusks.]
 	[NAME:elephant:elephants:elephant]
 	[CASTE_NAME:elephant:elephants:elephant]
@@ -14,6 +15,8 @@ creature_large_tropical
 	[PET]
 	[STANDARD_GRAZER] don't have browsing trees yet
 	[MOUNT_EXOTIC]
+	[PACK_ANIMAL]
+	[WAGON_PULLER]
 	[TRAINABLE]
 	[LARGE_ROAMING]
 	[BIOME:ANY_TROPICAL_FOREST]
@@ -141,7 +144,7 @@ creature_large_tropical
 
 [CREATURE:WARTHOG]
 	[CREATURE_CLASS:MAMMAL]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A medium-sized animal living in grass and woodland.  It has a large snout with four sharp tusks.  It will aggressively defend itself.]
 	[NAME:warthog:warthogs:warthog]
 	[CASTE_NAME:warthog:warthogs:warthog]
@@ -247,7 +250,7 @@ creature_large_tropical
 
 [CREATURE:LION]
 	[CREATURE_CLASS:MAMMAL]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A large ferocious predator found in grasslands.  It lives in groups of females and one male with a large mane.  They hunt together and are capable of felling extremely large prey.]
 	[NAME:lion:lions:lion]
 	[CASTE_NAME:lion:lions:lion]
@@ -369,7 +372,7 @@ creature_large_tropical
 
 [CREATURE:TIGER]
 	[CREATURE_CLASS:MAMMAL]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A huge, striped predator.  It is found in almost any climate on a lone hunt for its prey.]
 	[NAME:tiger:tigers:tiger]
 	[CASTE_NAME:tiger:tigers:tiger]
@@ -493,7 +496,7 @@ creature_large_tropical
 
 [CREATURE:CHEETAH]
 	[CREATURE_CLASS:MAMMAL]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A large spotted feline predator.  It is capable of incredible speed when ambushing its prey.]
 	[NAME:cheetah:cheetahs:cheetah]
 	[CASTE_NAME:cheetah:cheetahs:cheetah]
@@ -614,7 +617,7 @@ creature_large_tropical
 
 [CREATURE:CAMEL_1_HUMP]
 	[CREATURE_CLASS:MAMMAL]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A large long-necked creature with a large hump on its sturdy body.  It has been domesticated to carry passengers and cargo but is nonetheless bad-tempered and will spit.]
 	[NAME:one-humped camel:one-humped camels:one-humped camel]
 	[CASTE_NAME:one-humped camel:one-humped camels:one-humped camel]
@@ -758,7 +761,7 @@ creature_large_tropical
 
 [CREATURE:CAMEL_2_HUMP]
 	[CREATURE_CLASS:MAMMAL]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A large, long-necked creature with two fleshy humps on its back.  It is domesticated to carry passengers and cargo.]
 	[NAME:two-humped camel:two-humped camels:two-humped camel]
 	[CASTE_NAME:two-humped camel:two-humped camels:two-humped camel]
@@ -902,7 +905,7 @@ creature_large_tropical
 
 [CREATURE:CROCODILE_SALTWATER]
 	[CREATURE_CLASS:LIZARD]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A huge, predatory reptile found in coastal marshes and river deltas.  It ambushes its prey at the shore and uses its great size to drag the victim under and drown them.]
 	[NAME:saltwater crocodile:saltwater crocodiles:saltwater crocodile]
 	[CASTE_NAME:saltwater crocodile:saltwater crocodiles:saltwater crocodile]

@@ -349,7 +349,7 @@ creature_large_temperate
 
 [CREATURE:DEER]
 	[CREATURE_CLASS:MAMMAL]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A medium-sized hoofed forest creature that grows its antlers back each year.]
 	[NAME:deer:deer:deer]
 	[CASTE_NAME:deer:deer:deer]
@@ -460,7 +460,7 @@ creature_large_temperate
 
 [CREATURE:FOX]
 	[CREATURE_CLASS:MAMMAL]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small carnivorous animal found in temperate climates.  It has orange fur and is known for its cleverness.]
 	[NAME:fox:foxes:fox]
 	[CASTE_NAME:fox:foxes:fox]
@@ -580,7 +580,7 @@ creature_large_temperate
 
 [CREATURE:RACCOON]
 	[CREATURE_CLASS:MAMMAL]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small omnivorous animal with a bright mask of fur.  It is nocturnal and found in temperate forests.  It is a curious animal and has been known to steal from civilized areas.]
 	[NAME:raccoon:raccoons:raccoon]
 	[CASTE_NAME:raccoon:raccoons:raccoon]
@@ -828,7 +828,7 @@ creature_large_temperate
 
 [CREATURE:COUGAR]
 	[CREATURE_CLASS:MAMMAL]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A large solitary feline.  It is found most often in dense vegetation, ambushing its prey.]
 	[NAME:cougar:cougars:cougar]
 	[CASTE_NAME:cougar:cougars:cougar]
@@ -925,7 +925,7 @@ creature_large_temperate
 
 [CREATURE:WOLF]
 	[CREATURE_CLASS:MAMMAL]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A large canine found in temperate regions.  It is territorial and hunts in packs.]
 	[NAME:wolf:wolves:wolf]
 	[CASTE_NAME:wolf:wolves:wolf]
@@ -1048,7 +1048,7 @@ creature_large_temperate
 
 [CREATURE:GROUNDHOG]
 	[CREATURE_CLASS:MAMMAL]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A large, round, lowland rodent.  It lives in burrows in the ground and ventures out to eat.]
 	[NAME:groundhog:groundhogs:groundhog]
 	[CASTE_NAME:groundhog:groundhogs:groundhog]
@@ -1145,7 +1145,7 @@ creature_large_temperate
 
 [CREATURE:ALLIGATOR]
 	[CREATURE_CLASS:LIZARD]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A huge reptile, found in rivers and marshlands.  It is an ambush predator, solitary and territorial.]
 	[NAME:alligator:alligators:alligator]
 	[CASTE_NAME:alligator:alligators:alligator]

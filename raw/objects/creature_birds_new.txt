@@ -11,7 +11,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:BIRD_CROW]
 	[CREATURE_CLASS:AVIAN]
 	[CREATURE_CLASS:MORBID]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small black bird that feeds on carrion.  It is social, very intelligent and knows how to use tools.]
 	[NAME:crow:crows:crow]
 	[CASTE_NAME:crow:crows:crow]
@@ -153,7 +153,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:BIRD_RAVEN]
 	[CREATURE_CLASS:AVIAN]
 	[CREATURE_CLASS:MORBID]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small, foreboding black bird that feeds on carrion.  It is social, very intelligent, and knows how to use tools.]
 	[NAME:raven:ravens:raven]
 	[CASTE_NAME:raven:ravens:raven]
@@ -296,7 +296,7 @@ Cassowaries were sponsored by the generous contributions of the Bay 12 community
 
 [CREATURE:BIRD_CASSOWARY]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small, flightless, brightly-colored bird.]
 	[NAME:cassowary:cassowaries:cassowary]
 	[CASTE_NAME:cassowary:cassowaries:cassowary]
@@ -398,7 +398,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_OWL_SNOWY]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small white bird that hunts in the coldest reaches of the world.]
 	[NAME:snowy owl:snowy owls:snowy owl]
 	[CASTE_NAME:snowy owl:snowy owls:snowy owl]
@@ -539,7 +539,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:SPARROW]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny brown bird that can be found in most temperate regions.]
 	[NAME:sparrow:sparrows:sparrow]
 	[CASTE_NAME:sparrow:sparrows:sparrow]
@@ -653,7 +653,7 @@ Storks were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_STORK_WHITE]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small bird with long legs and bill, and a extremely long wingspan.]
 	[NAME:white stork:white storks:white stork]
 	[CASTE_NAME:white stork:white storks:white stork]
@@ -750,7 +750,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_LOON]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small water bird found in remote lakes.  It is known for its haunting call.]
 	[NAME:loon:loons:loon]
 	[CASTE_NAME:loon:loons:loon]
@@ -846,7 +846,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_OWL_BARN]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small, nocturnal bird of prey found in woodland regions.  Its hunger for rodents drives it to take residence in buildings.]
 	[NAME:barn owl:barn owls:barn owl]
 	[CASTE_NAME:barn owl:barn owls:barn owl]
@@ -962,7 +962,7 @@ Parakeets were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_PARAKEET]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny parrot found in flocks of many hundreds.  Exceptional birds can be taught to speak.]
 	[NAME:parakeet:parakeets:parakeet]
 	[CASTE_NAME:parakeet:parakeets:parakeet]
@@ -1072,7 +1072,7 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_KAKAPO]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small flightless green parrot.  It is nocturnal and counts itself among the longest-lived birds.]
 	[NAME:kakapo:kakapo:kakapo]
 	[CASTE_NAME:kakapo:kakapo:kakapo]
@@ -1170,7 +1170,7 @@ Grey parrots were sponsored by the generous contributions of the Bay 12 communit
 
 [CREATURE:BIRD_PARROT_GREY]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:The most intelligent of birds.  It can be found in the rainforest.]
 	[NAME:grey parrot:grey parrots:grey parrot]
 	[CASTE_NAME:grey parrot:grey parrots:grey parrot]
@@ -1264,7 +1264,7 @@ Puffins were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_PUFFIN]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny diving bird found living on seaside cliffs in the colder climates.]
 	[NAME:puffin:puffins:puffin]
 	[CASTE_NAME:puffin:puffins:puffin]
@@ -1356,7 +1356,7 @@ Swans were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_SWAN]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small aquatic bird, prized for its beauty.]
 	[NAME:swan:swans:swan]
 	[CHILD:1][GENERAL_CHILD_NAME:cygnet:cygnets]
@@ -1450,7 +1450,7 @@ Lorikeets were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_LORIKEET]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny, brightly-colored tree parrot.  It uses its tongue to feed on plants.]
 	[NAME:lorikeet:lorikeets:lorikeet]
 	[CASTE_NAME:lorikeet:lorikeets:lorikeet]
@@ -1558,7 +1558,7 @@ Wrens were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_WREN]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny brown bird given to singing complex songs.]
 	[NAME:wren:wrens:wren]
 	[CASTE_NAME:wren:wrens:wren]
@@ -1669,7 +1669,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_OSPREY]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small bird of prey with black markings on its eyes.  It hunts near bodies of water.]
 	[NAME:osprey:ospreys:osprey]
 	[CASTE_NAME:osprey:ospreys:osprey]
@@ -1783,7 +1783,7 @@ Emus were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_EMU]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A large flightless bird.  It is very curious and has been known to follow other creatures.]
 	[NAME:emu:emus:emu]
 	[CASTE_NAME:emu:emus:emu]
@@ -1887,7 +1887,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_COCKATIEL]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny crested parrot.  They are prized as domestic companions.]
 	[NAME:cockatiel:cockatiels:cockatiel]
 	[CASTE_NAME:cockatiel:cockatiels:cockatiel]
@@ -1992,7 +1992,7 @@ Peach-faced lovebirds were sponsored by the generous contributions of the Bay 12
 
 [CREATURE:BIRD_LOVEBIRD_PEACH-FACED]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny, brightly colored parrot.  They are clever and learn many tricks.]
 	[NAME:peach-faced lovebird:peach-faced lovebirds:peach-faced lovebird]
 	[CASTE_NAME:peach-faced lovebird:peach-faced lovebirds:peach-faced lovebird]
@@ -2101,7 +2101,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_MAGPIE]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny black and white bird.  It is one of the most intelligent of the natural creatures.]
 	[NAME:magpie:magpies:magpie]
 	[CASTE_NAME:magpie:magpies:magpie]
@@ -2208,7 +2208,7 @@ Kestrels were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_KESTREL]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny bird of prey.  It hovers above the ground and swoops down to snatch rodents and mice.]
 	[NAME:kestrel:kestrels:kestrel]
 	[CASTE_NAME:kestrel:kestrels:kestrel]
@@ -2321,7 +2321,7 @@ Albatrosses were sponsored by the generous contributions of the Bay 12 community
 
 [CREATURE:BIRD_ALBATROSS]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small sea bird with great wings.  It soars through the sky and dives for food on the surface of the water.]
 	[NAME:albatross:albatrosses:albatross]
 	[CASTE_NAME:albatross:albatrosses:albatross]
@@ -2415,7 +2415,7 @@ Great horned owls were sponsored by the generous contributions of the Bay 12 com
 
 [CREATURE:BIRD_OWL_GREAT_HORNED]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small, nocturnal bird of prey with large eyes and protruding feathers.]
 	[NAME:great horned owl:great horned owls:great horned owl]
 	[CASTE_NAME:great horned owl:great horned owls:great horned owl]
@@ -2532,7 +2532,7 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_EAGLE]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small bird of prey.]
 	[NAME:eagle:eagles:eagle]
 	[CASTE_NAME:eagle:eagles:eagle]
@@ -2647,7 +2647,7 @@ Hornbills were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_HORNBILL]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny bird with a large, brightly-colored bill.]
 	[NAME:hornbill:hornbills:hornbill]
 	[CASTE_NAME:hornbill:hornbills:hornbill]
@@ -2754,7 +2754,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 
 [CREATURE:BIRD_LOVEBIRD_MASKED]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny, colorful bird.  It can be trained to be a pleasant companion.]
 	[NAME:masked lovebird:masked lovebirds:masked lovebird]
 	[CASTE_NAME:masked lovebird:masked lovebirds:masked lovebird]
@@ -2858,7 +2858,7 @@ Bushtits were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:BIRD_BUSHTIT]
 	[CREATURE_CLASS:AVIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny brown bird found in open woodlands.]
 	[NAME:bushtit:bushtits:bushtit]
 	[CASTE_NAME:bushtit:bushtits:bushtit]

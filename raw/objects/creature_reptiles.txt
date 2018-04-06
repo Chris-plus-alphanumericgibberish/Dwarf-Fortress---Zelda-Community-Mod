@@ -4,7 +4,7 @@ creature_reptiles
 
 [CREATURE:LIZARD]  zootoca vivipara, no eggs
 	[CREATURE_CLASS:LIZARD]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small reptile.]
 	[NAME:lizard:lizards:lizard]
 	[CASTE_NAME:lizard:lizards:lizard]
@@ -87,7 +87,7 @@ Adders were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:ADDER]
 	[CREATURE_CLASS:OPHIDIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small snake with ridged scales and a powerful venomous bite.]
 	[NAME:adder:adders:adder]
 	[CASTE_NAME:adder:adders:adder]
@@ -203,7 +203,7 @@ Kingsnakes were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:KINGSNAKE]
 	[CREATURE_CLASS:OPHIDIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny, brightly-colored snake.  It is known for eating other snakes and being mistaken for its poisonous cousins.]
 	[NAME:kingsnake:kingsnakes:kingsnake]
 	[CASTE_NAME:kingsnake:kingsnakes:kingsnake]
@@ -294,7 +294,7 @@ Rattlesnakes were sponsored by the generous contributions of the Bay 12 communit
 
 [CREATURE:RATTLESNAKE]
 	[CREATURE_CLASS:OPHIDIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small reptile with a tell-tale rattle and vicious bite that leads to a quick death.]
 	[NAME:rattlesnake:rattlesnakes:rattlesnake]
 	[CASTE_NAME:rattlesnake:rattlesnakes:rattlesnake]
@@ -402,7 +402,7 @@ Copperhead snakes were sponsored by the generous contributions of the Bay 12 com
 
 [CREATURE:COPPERHEAD_SNAKE]
 	[CREATURE_CLASS:OPHIDIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny venomous snake found in the woods and swamps.]
 	[NAME:copperhead snake:copperhead snakes:copperhead snake]
 	[CASTE_NAME:copperhead snake:copperhead snakes:copperhead snake]
@@ -506,7 +506,7 @@ Anacondas were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:ANACONDA]
 	[CREATURE_CLASS:OPHIDIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A medium-sized snake that lives in the trees.  It eats prey much larger than itself and slays them by crushing them to death.]
 	[NAME:anaconda:anacondas:anaconda]
 	[CASTE_NAME:anaconda:anacondas:anaconda]
@@ -592,7 +592,7 @@ Monitor lizards were sponsored by the generous contributions of the Bay 12 commu
 
 [CREATURE:MONITOR_LIZARD]
 	[CREATURE_CLASS:LIZARD]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A medium-sized reptile.  They can be found foraging for food such as eggs or worms.  They are said to be the most intelligent of their kind.]
 	[NAME:monitor lizard:monitor lizards:monitor lizard]
 	[CASTE_NAME:monitor lizard:monitor lizards:monitor lizard]
@@ -688,7 +688,7 @@ Monitor lizards were sponsored by the generous contributions of the Bay 12 commu
 
 [CREATURE:KING_COBRA]
 	[CREATURE_CLASS:OPHIDIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small limbless reptile known for its deadly venom and the warning of its hood.]
 	[NAME:king cobra:king cobras:king cobra]
 	[CASTE_NAME:king cobra:king cobras:king cobra]
@@ -797,7 +797,7 @@ Black mambas were sponsored by the generous contributions of the Bay 12 communit
 
 [CREATURE:BLACK_MAMBA]
 	[CREATURE_CLASS:OPHIDIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small aggressive snake which can move very quickly.  Its venom is deadly.]
 	[NAME:black mamba:black mambas:black mamba]
 	[CASTE_NAME:black mamba:black mambas:black mamba]
@@ -918,7 +918,7 @@ Bushmasters were sponsored by the generous contributions of the Bay 12 community
 
 [CREATURE:BUSHMASTER]
 	[CREATURE_CLASS:OPHIDIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny venomous snake.  It is the longest of the pit vipers.]
 	[NAME:bushmaster:bushmasters:bushmaster]
 	[CASTE_NAME:bushmaster:bushmasters:bushmaster]
@@ -1032,7 +1032,7 @@ Pythons were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:PYTHON]
 	[CREATURE_CLASS:OPHIDIAN]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small snake found in the trees.  It kills its prey by using its long body to constrict them.]
 	[NAME:python:pythons:python]
 	[CASTE_NAME:python:pythons:python]

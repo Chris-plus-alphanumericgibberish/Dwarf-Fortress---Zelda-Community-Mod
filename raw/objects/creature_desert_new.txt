@@ -9,7 +9,7 @@ Geckos were sponsored by the generous contributions of the Bay 12 community.
 
 [CREATURE:GECKO_LEOPARD]
 	[CREATURE_CLASS:LIZARD]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny, brightly-colored lizard with feet that can stick to branch and stone.]
 	[NAME:leopard gecko:leopard geckos:leopard gecko]
 	[CASTE_NAME:leopard gecko:leopard geckos:leopard gecko]
@@ -142,7 +142,7 @@ Desert tortoises were sponsored by the generous contributions of the Bay 12 comm
 
 [CREATURE:DESERT TORTOISE]
 	[CREATURE_CLASS:LIZARD]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A tiny shelled reptile that lives in the desert.]
 	[NAME:desert tortoise:desert tortoises:desert tortoise]
 	[CASTE_NAME:desert tortoise:desert tortoises:desert tortoise]
@@ -287,7 +287,7 @@ Gila monsters were sponsored by the generous contributions of the Bay 12 communi
 
 [CREATURE:GILA_MONSTER]
 	[CREATURE_CLASS:LIZARD]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A small venomous lizard.]
 	[NAME:gila monster:gila monsters:gila monster]
 	[CASTE_NAME:gila monster:gila monsters:gila monster]

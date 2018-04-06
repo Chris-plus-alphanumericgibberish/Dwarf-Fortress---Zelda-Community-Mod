@@ -5,7 +5,7 @@ creature_large_ocean
 [CREATURE:WALRUS]
 	[CREATURE_CLASS:MAMMAL]
 	[CREATURE_CLASS:AQUATIC]
-	[CREATURE_CLASS:NATURAL]
+	[CREATURE_CLASS:NATURAL][PET_EXOTIC]
 	[DESCRIPTION:A huge aquatic mammal with giant tusks and dense whiskers.  They are thick and blubbery and live almost exclusively on mussels.]
 	[NAME:walrus:walruses:walrus]
 	[CASTE_NAME:walrus:walruses:walrus]
