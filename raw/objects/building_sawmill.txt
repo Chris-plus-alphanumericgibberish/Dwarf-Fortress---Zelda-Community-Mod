@@ -31,7 +31,7 @@ building_sawmill
    [COLOR:2:2:6:0:0:0:0:0:0:0:0]
    [COLOR:2:3:MAT:MAT:MAT]
    [TILE:3:1:45:32:32]
-   [TILE:3:2:45:0:128]
+   [TILE:3:2:45:32:128]
    [TILE:3:3:213:205:184]
    [COLOR:3:1:6:0:0:MAT:0:0:0]
    [COLOR:3:2:6:0:0:MAT:0:0:1]
