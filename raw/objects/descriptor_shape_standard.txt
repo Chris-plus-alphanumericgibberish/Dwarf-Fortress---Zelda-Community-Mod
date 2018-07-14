@@ -32,35 +32,57 @@ descriptor_shape_standard
 
 [SHAPE:CIRCLE]
 	[NAME:circle:circles]
+	[WORD:CIRCLE]
 	[TILE:9]
 
 [SHAPE:TRIANGLE]
 	[NAME:triangle:triangles]
+	[WORD:TRIANGLE]
 	[TILE:30]
 
 [SHAPE:INV_TRIANGLE]
 	[NAME:inverted triangle:inverted triangles]
+	[WORD:TRIANGLE]
 	[TILE:31]
 
 [SHAPE:DISK]
 	[NAME:disk:disks]
+	[WORD:CIRCLE]
+	[TILE:9]
+
+[SHAPE:DISK_ADJ]
+	[NAME:disk:disks]
+	[WORD:CIRCLE]
 	[ADJ:ornate]
 	[TILE:9]
 
 [SHAPE:DIAMOND]
 	[NAME:diamond:diamonds]
+	[WORD:DIAMOND]
 	[TILE:4]
 
 [SHAPE:SUN]
+	[NAME:sun:suns]
+	[WORD:SUN]
+	[TILE:15]
+
+[SHAPE:SUN_DESC]
 	[NAME:sun:suns]
 	[WORD:SUN]
 	[ADJ:warm]
 	[ADJ:shining]
 	[ADJ:blazing]
 	[ADJ:eclipsed]
+	[ADJ:setting]
+	[ADJ:rising]
 	[TILE:15]
 
 [SHAPE:MOON]
+	[NAME:moon:moons]
+	[WORD:MOON]
+	[TILE:7]
+
+[SHAPE:MOON_DESC]
 	[NAME:moon:moons]
 	[WORD:MOON]
 	[ADJ:hidden]
@@ -69,6 +91,8 @@ descriptor_shape_standard
 	[ADJ:full]
 	[ADJ:crescent]
 	[ADJ:half]
+	[ADJ:setting]
+	[ADJ:rising]
 	[TILE:7]
 
 [SHAPE:WAVE]
@@ -100,10 +124,13 @@ descriptor_shape_standard
 
 [SHAPE:CLOUD]
 	[NAME:cloud:clouds]
+	[WORD:CLOUD]
 	[TILE:236]
 
 [SHAPE:CLOUD_DESC]
 	[NAME:cloud:clouds]
+	[WORD:CLOUD]
+	[ADJ:stylized]
 	[ADJ:swirling]
 	[ADJ:fluffy]
 	[ADJ:streaming]

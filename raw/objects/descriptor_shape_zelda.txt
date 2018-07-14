@@ -4,10 +4,18 @@ descriptor_shape_standard
 
 [SHAPE:KO_Z_TRIFORCE]
 	[NAME:triforce:triforce fragments]
+	[WORD:TRIANGLE]
 	[TILE:30]
 
 [SHAPE:WINGS]
 	[NAME:wing:wings]
+	[WORD:WING]
+	[TILE:'(']
+
+[SHAPE:WINGS_ADJ]
+	[NAME:wing:wings]
+	[WORD:WING]
+	[ADJ:stylized]
 	[ADJ:feathered]
 	[ADJ:leathery]
 	[ADJ:bladed]
@@ -16,6 +24,13 @@ descriptor_shape_standard
 
 [SHAPE:HAND]
 	[NAME:hand:hands]
+	[WORD:HAND]
+	[TILE:253]
+
+[SHAPE:HAND_ADJ]
+	[NAME:hand:hands]
+	[WORD:HAND]
+	[ADJ:stylized]
 	[ADJ:grasping]
 	[ADJ:clawed]
 	[ADJ:reaching]
@@ -24,6 +39,8 @@ descriptor_shape_standard
 
 [SHAPE:HANDS]
 	[NAME:pair of hands:pairs of hands]
+	[WORD:HAND]
+	[ADJ:stylized]
 	[ADJ:grasping]
 	[ADJ:clasped]
 	[ADJ:reaching]
@@ -32,12 +49,14 @@ descriptor_shape_standard
 
 [SHAPE:LOFT]
 	[NAME:loftwing:loftwings]
+	[WORD:BIRD]
 	[ADJ:stylized]
 	[ADJ:flying]
 	[TILE:157]
 
 [SHAPE:KO_Z_WHIRRLPOOL]
 	[NAME:whirlpool:whirlpools]
+	[WORD:WHIRL]
 	[TILE:157]
 
 [SHAPE:KO_Z_SKULL]
@@ -50,9 +69,15 @@ descriptor_shape_standard
 
 [SHAPE:KO_Z_STONE_GOSSIP]
 	[NAME:gossip stone:gossip stones]
+	[WORD:STONE]
 	[TILE:127]
 
 [SHAPE:KO_Z_EYE]
+	[NAME:eye:eyes]
+	[WORD:EYE]
+	[TILE:253]
+
+[SHAPE:KO_Z_EYE_ADJ]
 	[NAME:eye:eyes]
 	[WORD:EYE]
 	[ADJ:crying]
@@ -61,24 +86,77 @@ descriptor_shape_standard
 	[ADJ:staring]
 	[TILE:253]
 
+[SHAPE:SKY]
+	[NAME:sky:skies]
+	[WORD:SKY]
+	[TILE:0]
+
+[SHAPE:SKY_ADJ]
+	[NAME:sky:skies]
+	[WORD:SKY]
+	[ADJ:wide]
+	[ADJ:holy sky]
+	[ADJ:blank]
+	[ADJ:black]
+	[ADJ:starry]
+	[TILE:0]
+
+[SHAPE:SHADOW]
+	[NAME:shadow:shadows]
+	[WORD:DARK]
+	[TILE:'_']
+
+[SHAPE:SHADOW_ADJ]
+	[NAME:shadow:shadows]
+	[WORD:DARK]
+	[ADJ:deadly]
+	[ADJ:frightful]
+	[ADJ:frightening]
+	[TILE:0]
+
+[SHAPE:TEMPLE]
+	[NAME:temple:temples]
+	[WORD:TEMPLE]
+	[TILE:'I']
+
+[SHAPE:CHURCH]
+	[NAME:church:churches]
+	[WORD:CHURCH]
+	[TILE:'+']
+
 [SHAPE:KO_Z_TONGUE_FACE]
 	[NAME:face sticking out its tongue:faces sticking out their tongues]
+	[WORD:FACE]
 	[TILE:2]
 
 [SHAPE:CRYSTAL_PRISON]
 	[NAME:crystal prison:crystal prisons]
+	[WORD:PRISON]
 	[TILE:4]
 
 [SHAPE:SAND_DUNE]
 	[NAME:sand dune:sand dunes]
+	[WORD:DUNE]
 	[TILE:126]
 
 [SHAPE:RUIN]
 	[NAME:ruin:ruins]
+	[WORD:RUIN]
+	[TILE:230]
+
+[SHAPE:PALACE]
+	[NAME:palace:palaces]
+	[WORD:PALACE]
 	[TILE:230]
 
 [SHAPE:ANGELIC]
 	[NAME:winged humanoid:winged humanoid]
+	[WORD:ANGEL]
+	[TILE:142]
+
+[SHAPE:ANGELIC_ADJ]
+	[NAME:winged humanoid:winged humanoid]
+	[WORD:ANGEL]
 	[ADJ:stylized]
 	[ADJ:flying]
 	[ADJ:praying]
@@ -86,13 +164,16 @@ descriptor_shape_standard
 
 [SHAPE:FARORE_MARK]
 	[NAME:mark of Farore:marks of Farore]
+	[WORD:GODDESS]
 	[TILE:175]
 
 [SHAPE:DIN_MARK]
 	[NAME:mark of Din:marks of Din]
+	[WORD:GODDESS]
 	[TILE:247]
 
 [SHAPE:NAYRU_MARK]
 	[NAME:mark of Nayru:marks of Nayru]
+	[WORD:GODDESS]
 	[TILE:015]
 
