@@ -505,8 +505,6 @@ grasses
 	[FREQUENCY:100]
 	[BIOME:NOT_FREEZING]
 
-
-
 [PLANT:DINS_FLOWER]
 	[NAME:din's flower][NAME_PLURAL:din's flowers][ADJ:din's flower]
 	[VALUE:777]
