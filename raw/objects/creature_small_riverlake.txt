@@ -88,6 +88,7 @@ creature_small_riverlake
 
 [CREATURE:FISH_LOACH_CLOWN]
 	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:AIR_DROWNS]
 	[CREATURE_CLASS:FISH]
 	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny orange-striped fish.  It lives in inland waters.]
@@ -162,6 +163,7 @@ creature_small_riverlake
 
 [CREATURE:FISH_BULLHEAD_BROWN]
 	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:AIR_DROWNS]
 	[CREATURE_CLASS:FISH]
 	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small whiskered fish found in muddy inland waters.]
@@ -236,6 +238,7 @@ creature_small_riverlake
 
 [CREATURE:FISH_BULLHEAD_YELLOW]
 	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:AIR_DROWNS]
 	[CREATURE_CLASS:FISH]
 	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small whiskered fish found scavenging in inland waters.]
@@ -310,6 +313,7 @@ creature_small_riverlake
 
 [CREATURE:FISH_BULLHEAD_BLACK]
 	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:AIR_DROWNS]
 	[CREATURE_CLASS:FISH]
 	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small whiskered fish found in inland waters.]
@@ -384,6 +388,7 @@ creature_small_riverlake
 
 [CREATURE:FISH_KNIFEFISH_BANDED]
 	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:AIR_DROWNS]
 	[CREATURE_CLASS:FISH]
 	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small spotted fish found in tropical rivers and lakes.]
@@ -458,6 +463,7 @@ creature_small_riverlake
 
 [CREATURE:FISH_CHAR]
 	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:AIR_DROWNS]
 	[CREATURE_CLASS:FISH]
 	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized spotted fish found in temperate lakes and rivers.]
@@ -532,6 +538,7 @@ creature_small_riverlake
 
 [CREATURE:FISH_TROUT_RAINBOW]
 	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:AIR_DROWNS]
 	[CREATURE_CLASS:FISH]
 	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A medium-sized spotted fish found in temperate rivers and lakes.]
@@ -606,6 +613,7 @@ creature_small_riverlake
 
 [CREATURE:FISH_MOLLY_SAILFIN]
 	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:AIR_DROWNS]
 	[CREATURE_CLASS:FISH]
 	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny spotted fish found in coastal rivers and temperate lakes.]
@@ -684,6 +692,7 @@ creature_small_riverlake
 
 [CREATURE:FISH_GUPPY]
 	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:AIR_DROWNS]
 	[CREATURE_CLASS:FISH]
 	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A tiny colorful fish found in tropical lakes and rivers.]
@@ -762,6 +771,7 @@ creature_small_riverlake
 
 [CREATURE:FISH_PERCH]
 	[CREATURE_CLASS:AQUATIC]
+	[CREATURE_CLASS:AIR_DROWNS]
 	[CREATURE_CLASS:FISH]
 	[CREATURE_CLASS:NATURAL]
 	[DESCRIPTION:A small striped fish found in fresh water.]
