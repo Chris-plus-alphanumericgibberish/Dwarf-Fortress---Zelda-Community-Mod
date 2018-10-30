@@ -3,7 +3,22 @@ descriptor_shape_standard
 [OBJECT:DESCRIPTOR_SHAPE]
 
 [SHAPE:KO_Z_TRIFORCE]
-	[NAME:triforce:triforce fragments]
+	[NAME:triforce:triforce shards]
+	[WORD:TRIANGLE]
+	[TILE:30]
+
+[SHAPE:KO_Z_TRIFORCE_POWER]
+	[NAME:triforce of power:shards of the triforce of power]
+	[WORD:TRIANGLE]
+	[TILE:30]
+
+[SHAPE:KO_Z_TRIFORCE_WISDOM]
+	[NAME:triforce of wisdom:shards of the triforce of wisdom]
+	[WORD:TRIANGLE]
+	[TILE:30]
+
+[SHAPE:KO_Z_TRIFORCE_COURAGE]
+	[NAME:triforce of courage:shards of the triforce of courage]
 	[WORD:TRIANGLE]
 	[TILE:30]
 
@@ -95,7 +110,7 @@ descriptor_shape_standard
 	[NAME:sky:skies]
 	[WORD:SKY]
 	[ADJ:wide]
-	[ADJ:holy sky]
+	[ADJ:holy]
 	[ADJ:blank]
 	[ADJ:black]
 	[ADJ:starry]
@@ -134,6 +149,11 @@ descriptor_shape_standard
 	[WORD:PRISON]
 	[TILE:4]
 
+[SHAPE:SAND]
+	[NAME:sand:sand]
+	[WORD:SAND]
+	[TILE:126]
+
 [SHAPE:SAND_DUNE]
 	[NAME:sand dune:sand dunes]
 	[WORD:DUNE]
@@ -161,6 +181,33 @@ descriptor_shape_standard
 	[ADJ:flying]
 	[ADJ:praying]
 	[TILE:142]
+
+[SHAPE:RAINDROP]
+	[NAME:raindrop:raindrops]
+	[WORD:RAIN]
+	[TILE:9]
+
+[SHAPE:RAINDROP_ADJ]
+	[NAME:raindrop:raindrops]
+	[WORD:RAIN]
+	[ADJ:hollow]
+	[TILE:9]
+
+[SHAPE:TEARDROP]
+	[NAME:teardrop:teardrops]
+	[WORD:TEAR]
+	[TILE:9]
+
+[SHAPE:TEARDROP_ADJ]
+	[NAME:teardrop:teardrops]
+	[WORD:TEAR]
+	[ADJ:hollow]
+	[TILE:9]
+
+[SHAPE:HOURGLASS]
+	[NAME:hourglass:hourglasses]
+	[WORD:HOUR]
+	[TILE:9]
 
 [SHAPE:FARORE_MARK]
 	[NAME:mark of Farore:marks of Farore]
