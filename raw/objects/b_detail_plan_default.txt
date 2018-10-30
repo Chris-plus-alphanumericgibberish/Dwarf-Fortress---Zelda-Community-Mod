@@ -82,7 +82,7 @@ b_detail_plan_default
 	[ADD_MATERIAL:SOAP:SOAP_TEMPLATE]
 	[ADD_MATERIAL:TANNEDCHITIN:TANNED_CHITIN_TEMPLATE]
 	[ADD_MATERIAL:TANNEDSCALE:TANNED_SCALE_TEMPLATE]
-
+	
 [BODY_DETAIL_PLAN:STANDARD_TISSUES]
 	This command is just a shortcut for the similar lines (USE_TISSUE_TEMPLATE|<token>|<template>) in a creature definition.
 	[ADD_TISSUE:SKIN:SKIN_TEMPLATE]
