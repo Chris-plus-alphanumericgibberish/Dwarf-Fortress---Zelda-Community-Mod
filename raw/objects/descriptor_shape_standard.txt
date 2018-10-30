@@ -14,8 +14,17 @@ descriptor_shape_standard
 [SHAPE:CRESCENT]
 	[NAME:crescent:crescents]
 	[WORD:CRESCENT]
+	[TILE:'(']
+
+[SHAPE:CRESCENT_ADJ]
+	[NAME:crescent:crescents]
+	[WORD:CRESCENT]
 	[ADJ:narrow]
 	[ADJ:thick]
+	[ADJ:upwards facing]
+	[ADJ:downwards facing]
+	[ADJ:leftwards facing]
+	[ADJ:rightwards facing]
 	[TILE:'(']
 
 [SHAPE:CROSS]
