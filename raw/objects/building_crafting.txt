@@ -250,7 +250,7 @@ Swiped from genesis mod
 
 
 [BUILDING_WORKSHOP:BLOCK_DRYING]
-[NAME:sun-drying workshop]
+[NAME:Sun-drying Workshop]
 [NAME_COLOR:4:0:0]
 [WORK_LOCATION:3:2]
 [BUILD_LABOR:POTTERY]
