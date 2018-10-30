@@ -1694,7 +1694,7 @@ Gerudo weapons
 
 [ITEM_WEAPON:ITEM_WEAPON_SCIMITAR_SEVEN]
 	[NAME:scimitar of the seven:scimitars of the seven]
-	[SIZE:300]
+	[SIZE:400]
 	[SKILL:DANCE]
 	[TWO_HANDED:37500]
 	[MINIMUM_SIZE:32500]
