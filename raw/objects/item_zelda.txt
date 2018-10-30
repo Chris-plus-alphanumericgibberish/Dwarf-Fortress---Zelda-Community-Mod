@@ -79,8 +79,9 @@ Moblin knuckle-knight armor
 
 [ITEM_ARMOR:ITEM_ARMOR_SURCOAT]
 	[NAME:surcoat:surcoats]
-	[UBSTEP:1]
-	[LBSTEP:0]
+	[ARMORLEVEL:1]
+	[UBSTEP:0]
+	[LBSTEP:2]
 	[LAYER:COVER]
 	[COVERAGE:80]
 	[LAYER_SIZE:15]
