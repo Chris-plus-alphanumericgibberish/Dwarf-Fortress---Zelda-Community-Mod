@@ -48,7 +48,7 @@ item_adventuerer
 		[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SPEAR_CRUDE]
-	[NAME:spear:spear]
+	[NAME:spear:spears]
 	[ADJECTIVE:crude]
 	[SIZE:400]
 	[SKILL:SPEAR]
@@ -98,6 +98,20 @@ item_adventuerer
 	[MINIMUM_SIZE:15000]
 	[MATERIAL_SIZE:3]
 	[ATTACK:BLUNT:10000:4000:bash:bashes:NO_SUB:1250]
+		[ATTACK_PREPARE_AND_RECOVER:3:3]
+
+[ITEM_WEAPON:ITEM_WEAPON_BOW_CRUDE]
+	[NAME:bow:bows]
+	[ADJECTIVE:crude]
+	[SIZE:100]
+	[SKILL:SWORD]
+	[RANGED:BOW:ARROW]
+	[SHOOT_FORCE:250]
+	[SHOOT_MAXVEL:50]
+	[TWO_HANDED:0]
+	[MINIMUM_SIZE:5000]
+	[MATERIAL_SIZE:1]
+	[ATTACK:BLUNT:1000:400:bash:bashes:NO_SUB:1250]
 		[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SPEARTHROWER] Thanks to ZM5, though stats tend towards chucking pila rather than their more realistic atlatl
