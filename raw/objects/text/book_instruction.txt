@@ -551,3 +551,15 @@ Mythos of [NAME]
 [NAME] Royalty
 [NAME] Ways
 [NAME] Generations
+On the Nature of the [NO_ART_NAME]
+On the Nature of the [NO_ART_NAME]
+The [ADJ] [NO_ART_NAME]
+Book of [NAME]
+Canon of [NAME]
+The [ADJ] Book
+Principles of [NAME]
+Treatise on [NAME]
+A Study of [NAME]
+Report on [NAME]
+The [ADJ] Discourses
+The [ADJ] Tract
