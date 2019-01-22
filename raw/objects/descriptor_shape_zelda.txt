@@ -170,12 +170,12 @@ descriptor_shape_standard
 	[TILE:230]
 
 [SHAPE:ANGELIC]
-	[NAME:winged humanoid:winged humanoid]
+	[NAME:winged humanoid:winged humanoids]
 	[WORD:ANGEL]
 	[TILE:142]
 
 [SHAPE:ANGELIC_ADJ]
-	[NAME:winged humanoid:winged humanoid]
+	[NAME:winged humanoid:winged humanoids]
 	[WORD:ANGEL]
 	[ADJ:stylized]
 	[ADJ:flying]
