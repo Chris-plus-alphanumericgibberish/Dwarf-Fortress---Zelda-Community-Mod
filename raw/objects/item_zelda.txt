@@ -2054,6 +2054,13 @@ Gerudo weapons
 	[ATTACK:BLUNT:50:1000:strike:strikes:pommel:1000]
 		[ATTACK_PREPARE_AND_RECOVER:2:2]
 
+[ITEM_SHIELD:ITEM_SHIELD_DAYBREAKER]
+	[NAME:daybreaker:daybreakers]
+	[ARMORLEVEL:2]
+	[BLOCKCHANCE:40]
+	[UPSTEP:1]
+	[MATERIAL_SIZE:3]
+
 [ITEM_WEAPON:ITEM_WEAPON_DUAL_SCIMITARS]
 	[NAME:double scimitar:double scimitars]
 	[SIZE:1200]
