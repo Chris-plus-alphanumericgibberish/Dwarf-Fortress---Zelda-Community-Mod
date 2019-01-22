@@ -601,6 +601,8 @@ reaction_adventurecraft
 	[PRODUCT:100:1:SHIELD:ITEM_SHIELD_SHIELD_ADV:GET_MATERIAL_FROM_REAGENT:hide:NONE]
 	[SKILL:LEATHERWORK]
 	[CATEGORY:LEATHER_PRODUCTION_ADV]
+	[CATEGORY_NAME:Armor (Leather/Scale)]
+	[CATEGORY_DESCRIPTION:Armor made from leather.]
 
 [REACTION:CRAFT_LEATHER_CAP_ADV]
 	[NAME:sew cap (leather/scale/chitin)]
@@ -671,7 +673,7 @@ reaction_adventurecraft
 	[PRODUCT:100:1:BACKPACK:NONE:GET_MATERIAL_FROM_REAGENT:hide:NONE]
 	[SKILL:LEATHERWORK]
 	[CATEGORY:EQUIPMENT_PRODUCTION_ADV]
-	[CATEGORY_NAME:Clothing (Leather/scale)]
+	[CATEGORY_NAME:Clothing (Leather/Scale)]
 	[CATEGORY_DESCRIPTION:Clothing, waterskins, and other things using leather, but not scales or chitin.]
 
 [REACTION:CRAFT_LEATHER_FLASK_ADV]
@@ -930,6 +932,8 @@ reaction_adventurecraft
 	[PRODUCT:100:1:SHIELD:ITEM_SHIELD_SHIELD_ADV:GET_MATERIAL_FROM_REAGENT:wood:NONE]
 	[SKILL:WOODCRAFT]
 	[CATEGORY:ADV_WOOD_CRAFTS]
+	[CATEGORY_NAME:Crafts (Wood)]
+	[CATEGORY_DESCRIPTION:Make crafts from wood using a sharp weapon or tool.]
 
 [REACTION:CARVE_WOOD_CRUTCH_ADV]
 	[NAME:carve crutch (wood)]

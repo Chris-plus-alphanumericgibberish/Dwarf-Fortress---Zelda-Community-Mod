@@ -212,6 +212,8 @@ reaction_smithing_adventurecraft
 	[PRODUCT:100:1:SHIELD:ITEM_SHIELD_SHIELD_ADV:GET_MATERIAL_FROM_REAGENT:metal:NONE]
 	[SKILL:FORGE_ARMOR]
 	[CATEGORY:ADV_FORGING_ARMOR]
+	[CATEGORY_NAME:Metalworking (Armor)]
+	[CATEGORY_DESCRIPTION:Construct makeshift metal armor.]
 
 [REACTION:METAL_HELM_ADV]
 	[NAME:forge makeshift helm (metal)]
