@@ -563,3 +563,7 @@ A Study of [NAME]
 Report on [NAME]
 The [ADJ] Discourses
 The [ADJ] Tract
+[NAME] in the Dark
+[NAME] in the Light
+[NAME] in the Land of the Gods
+[NAME] and the City in the Sky
