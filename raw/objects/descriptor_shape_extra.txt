@@ -150,6 +150,7 @@ Based on Umiman's It's the Small Things mod
 [SHAPE:FEMALEDAERAS_HYLIA]
 	[NAME:winged hylian woman:winged hylian women]
 	[WORD:ANGEL]
+	[ADJ:horned]
 	[ADJ:armored]
 	[ADJ:nude]
 	[ADJ:pregnant]
