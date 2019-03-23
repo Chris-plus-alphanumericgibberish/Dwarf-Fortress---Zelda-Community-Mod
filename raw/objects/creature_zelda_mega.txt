@@ -478,6 +478,8 @@ creature_zelda_mega
 	[COLOR:2:0:1]
 	[PREFSTRING:tough hide]
 	[PREFSTRING:fiery breath]
+	[NATURAL_SKILL:THROW:6]
+	[NATURAL_SKILL:RANGED_COMBAT:6]
 	[CAN_DO_INTERACTION:SHOTGUN_MATERIAL_EMISSION]
 		[CDI:ADV_NAME:Breath jet of fire]
 		[CDI:VERB:exhale a jet of fire:exhales a jet of fire:NA]
