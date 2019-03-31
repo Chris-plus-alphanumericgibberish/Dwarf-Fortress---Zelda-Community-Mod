@@ -1426,7 +1426,7 @@ Gerudo weapons
 
 [ITEM_TOOL:ITEM_TOOL_WEAPON_GLAIVE]
 	[NAME:naginata template:naginata templates]
-	[SIZE:1500]
+	[SIZE:1800]
 	[VALUE:500]
 	[INVERTED_TILE]
 	[TILE:47]
