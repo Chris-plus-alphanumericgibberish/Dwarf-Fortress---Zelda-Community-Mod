@@ -1153,6 +1153,16 @@ Sheikah weapons
 	[UNIMPROVABLE]
 	[NO_DEFAULT_JOB]
 
+[ITEM_TOOL:ITEM_TOOL_WEAPON_NAGINATA]
+	[NAME:eightfold guardian blade template:eightfold guardian blade templates]
+	[SIZE:1500]
+	[VALUE:500]
+	[INVERTED_TILE]
+	[TILE:47]
+	[CERAMIC_MAT]
+	[UNIMPROVABLE]
+	[NO_DEFAULT_JOB]
+
 [ITEM_TOOL:ITEM_TOOL_WEAPON_THREE_SECTION_STAFF]
 	[NAME:three-section staff template:three-section staff templates]
 	[SIZE:1200]
