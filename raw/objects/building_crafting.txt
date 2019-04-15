@@ -397,7 +397,6 @@ Swiped from genesis mod
 	[WORK_LOCATION:2:2]
 	
 	[DIM:3:3]
-	[WORK_LOCATION:1:1]
 	[BLOCK:1:0:0:0]
 	[BLOCK:2:1:0:1]
 	[BLOCK:3:0:0:0]
