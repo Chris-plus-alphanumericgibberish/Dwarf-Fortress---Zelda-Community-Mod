@@ -908,6 +908,49 @@ Goron weapons
 	[UNIMPROVABLE]
 	[NO_DEFAULT_JOB]
 
+[ITEM_TOOL:ITEM_TOOL_HELM_GORON]
+	[NAME:goron helm template:goron helm templates]
+	[VALUE:750]
+	[TILE:91]
+	[INVERTED_TILE]
+	[CERAMIC_MAT]
+	[UNIMPROVABLE]
+	[NO_DEFAULT_JOB]
+	[SIZE:300]
+
+[ITEM_TOOL:ITEM_TOOL_ARMOR_BREASTPLATE_GORON]
+	[NAME:goron breastplate template:goron breastplate templates]
+	[VALUE:750]
+	[TILE:91]
+	[INVERTED_TILE]
+	[CERAMIC_MAT]
+	[UNIMPROVABLE]
+	[NO_DEFAULT_JOB]
+	[SIZE:2000]
+
+Gauntlets are bugged
+
+[ITEM_TOOL:ITEM_TOOL_PANTS_GREAVES_GORON]
+	this item doesn't make much sense right now, but there aren't any item types you can tie on to your legs yet
+	[NAME:goron greaves template:goron greaves templates]
+	[VALUE:750]
+	[TILE:91]
+	[INVERTED_TILE]
+	[CERAMIC_MAT]
+	[UNIMPROVABLE]
+	[NO_DEFAULT_JOB]
+	[SIZE:1500]
+
+[ITEM_TOOL:ITEM_TOOL_SHOES_BOOTS_GORON]
+	[NAME:goron boot template:goron boot templates]
+	[VALUE:750]
+	[TILE:91]
+	[INVERTED_TILE]
+	[CERAMIC_MAT]
+	[UNIMPROVABLE]
+	[NO_DEFAULT_JOB]
+	[SIZE:100]
+
  ITEM_TOOL:ITEM_TOOL_ARMOR_MAIL_SCARF]
 	 NAME:mail scarf:mail scarves]
 
