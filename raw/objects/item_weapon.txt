@@ -29,7 +29,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:40000:6000:slap:slaps:flat:1250]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
-[ATTACK:BLUNT:100:1000:strike:strikes:pommel:1000]
+[ATTACK:BLUNT:50:1000:strike:strikes:pommel:1000]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_HAMMER_WAR]
@@ -57,7 +57,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:20000:4000:slap:slaps:flat:1250]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
-[ATTACK:BLUNT:100:1000:strike:strikes:pommel:1000]
+[ATTACK:BLUNT:50:1000:strike:strikes:pommel:1000]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SPEAR]
@@ -171,7 +171,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:60000:6000:slap:slaps:flat:1250]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
-[ATTACK:BLUNT:100:1000:strike:strikes:pommel:1000]
+[ATTACK:BLUNT:50:1000:strike:strikes:pommel:1000]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_MAUL]
@@ -195,7 +195,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:60000:8000:slap:slaps:flat:1250]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
-[ATTACK:BLUNT:100:1000:strike:strikes:pommel:1000]
+[ATTACK:BLUNT:50:1000:strike:strikes:pommel:1000]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_DAGGER_LARGE]
@@ -246,8 +246,6 @@ Penetration size currently only matters for edged attacks.
 [MATERIAL_SIZE:3]
 [ATTACK:EDGE:10:500:bash:bashes:NO_SUB:2000]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
-[ATTACK:BLUNT:50:1000:strike:strikes:pommel:1000]
-	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SCIMITAR]
 [NAME:scimitar:scimitars]
@@ -277,7 +275,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:30000:6000:slap:slaps:flat:1250]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
-[ATTACK:BLUNT:100:1000:strike:strikes:pommel:1000]
+[ATTACK:BLUNT:50:1000:strike:strikes:pommel:1000]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [TRAINING]
 
@@ -294,7 +292,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:20000:4000:slap:slaps:flat:1250]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
-[ATTACK:BLUNT:100:1000:strike:strikes:pommel:1000]
+[ATTACK:BLUNT:50:1000:strike:strikes:pommel:1000]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [TRAINING]
 
