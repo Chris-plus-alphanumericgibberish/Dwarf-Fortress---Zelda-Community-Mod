@@ -3129,7 +3129,7 @@ Twili weapons
 		[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SCIMITAR_USURPER]
-	[NAME:usurper scimitar:usurper scimitars]
+	[NAME:usurper's scimitar:usurper's scimitars]
 	[SIZE:300]
 	[SKILL:SWORD]
 	[TWO_HANDED:37500]
@@ -3230,7 +3230,7 @@ Twili weapons
 		[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_KO_Z_TRIDENT_TWILI]
-	[NAME:interloper's trident:interloper's trident]
+	[NAME:redeemer's trident:redeemer's trident]
 	[ADJECTIVE:fused]
 	[SIZE:1800]
 	[SKILL:PIKE]
@@ -3255,7 +3255,7 @@ Twili weapons
 	[ATTACK:EDGE:300000:30000:spin and slash:spins and slashes:reverse-blade:3750]
 		[ATTACK_PREPARE_AND_RECOVER:6:3]
 		[ATTACK_FLAG_BAD_MULTIATTACK]
-	[ATTACK:EDGE:50:10000:stab:stabs:reverse-blade:1000]
+	[ATTACK:EDGE:10:500:stab:stabs:reverse-blade:1000]
 		[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 
