@@ -831,7 +831,7 @@ language_HYLIAN
 	[T_WORD:GOAL:tjeboresaba]
 	[T_WORD:GOAT:dasobirude]
 	[T_WORD:GOD-FORSAKEN:levu]
-	[T_WORD:GOD:hyliashushu]
+	[T_WORD:GOD:reghynshushu]
 	[T_WORD:GODDESS:hyliasoron]
 	[T_WORD:GOLD:atshutshadu]
 	[T_WORD:GOLDENROD:farutshe]
