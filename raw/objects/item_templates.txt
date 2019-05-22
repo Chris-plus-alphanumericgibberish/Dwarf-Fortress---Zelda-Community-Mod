@@ -1336,6 +1336,16 @@ Sheikah weapons
 	[UNIMPROVABLE]
 	[NO_DEFAULT_JOB]
 
+[ITEM_TOOL:ITEM_TOOL_WEAPON_KATANA_GIANT]
+	[NAME:eightfold giant's blade template:eightfold giant's blade templates]
+	[SIZE:1350]
+	[VALUE:500]
+	[INVERTED_TILE]
+	[TILE:47]
+	[CERAMIC_MAT]
+	[UNIMPROVABLE]
+	[NO_DEFAULT_JOB]
+
 [ITEM_TOOL:ITEM_TOOL_WEAPON_NAGINATA]
 	[NAME:eightfold guardian blade template:eightfold guardian blade templates]
 	[SIZE:1500]
