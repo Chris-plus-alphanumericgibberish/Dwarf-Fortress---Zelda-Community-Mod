@@ -133,6 +133,7 @@ creature_zelda_noctis
 
 [CASTE:KO_Z_STALHOUND_BOGEY]
 	[DESCRIPTION:A large skeletal wolf.]
+	[PETVALUE:30]
 	[CASTE_NAME:stalhound:stalhounds:stalhound]
 	[CASTE_TILE:'h'][CASTE_COLOR:7:0:0]
 		[POP_RATIO:10]
@@ -233,6 +234,7 @@ creature_zelda_noctis
 
 [CASTE:KO_Z_STALHORSE_BOGEY]
 	[DESCRIPTION:A large skeletal horse.]
+	[PETVALUE:200]
 	[CASTE_NAME:stalhorse:stalhorses:stalhorse]
 	[CASTE_TILE:'H'][CASTE_COLOR:7:0:0]
 		[POP_RATIO:1]
@@ -3507,6 +3509,7 @@ creature_zelda_noctis
 
 [CREATURE:KO_STALHOUND]
 	[CREATURE_CLASS:MONSTER]
+	[PETVALUE:30]
 	[GLOWTILE:'"'][GLOWCOLOR:4:0:1]
 	[LARGE_PREDATOR][CLUSTER_NUMBER:4:6][LIKES_FIGHTING]
 	[FANCIFUL]
@@ -3634,6 +3637,7 @@ creature_zelda_noctis
 
 [CREATURE:KO_STALHORSE]
 	[CREATURE_CLASS:MONSTER]
+	[PETVALUE:200]
 	[GLOWTILE:'"'][GLOWCOLOR:4:0:1]
 	[LARGE_PREDATOR][CLUSTER_NUMBER:4:6][LIKES_FIGHTING]
 	[FANCIFUL]
