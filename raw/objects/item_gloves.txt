@@ -4,7 +4,7 @@ item_gloves
 
 [ITEM_GLOVES:ITEM_GLOVES_GAUNTLETS]
 	[NAME:gauntlet:gauntlets]
-	[ARMORLEVEL:1]
+	[ARMORLEVEL:2]
 	[UPSTEP:1]
 	[SHAPED]
 	[LAYER:ARMOR]
