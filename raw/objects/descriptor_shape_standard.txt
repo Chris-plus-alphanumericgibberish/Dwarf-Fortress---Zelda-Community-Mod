@@ -131,6 +131,20 @@ descriptor_shape_standard
 	[ADJ:cold]
 	[TILE:30]
 
+[SHAPE:CANYON]
+	[NAME:canyon:canyons]
+	[WORD:CANYON]
+	[TILE:31]
+
+[SHAPE:CANYON_DESC]
+	[NAME:canyon:canyons]
+	[WORD:CANYON]
+	[ADJ:deep]
+	[ADJ:strong]
+	[ADJ:hot]
+	[ADJ:cold]
+	[TILE:31]
+
 [SHAPE:CLOUD]
 	[NAME:cloud:clouds]
 	[WORD:CLOUD]

@@ -1315,11 +1315,13 @@ Based on Umiman's It's the Small Things mod
 	[NAME:desert:deserts]
 	[WORD:DESERT]
 	[ADJ:barren]
+	[ADJ:sandy]
 	[TILE:30]
 
 [SHAPE:DESERTHH2]
 	[NAME:desert:deserts]
 	[ADJ:barren]
+	[ADJ:sandy]
 	[WORD:DESERT]
 	[TILE:46]
 
@@ -1336,9 +1338,18 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:empty]
 	[TILE:46]
 
+[SHAPE:FOREST]
+	[NAME:forest:forests]
+	[WORD:FOREST]
+	[TILE:5]
+
 [SHAPE:FORESTHH]
 	[NAME:forest:forests]
 	[WORD:FOREST]
+	[ADJ:quiet]
+	[ADJ:tall]
+	[ADJ:endless]
+	[ADJ:wide]
 	[ADJ:broadleaf]
 	[ADJ:conifer]
 	[TILE:5]
@@ -1354,6 +1365,11 @@ Based on Umiman's It's the Small Things mod
 	[NAME:hill:hills]
 	[WORD:HILL]
 	[TILE:239]
+
+[SHAPE:VOLCANO]
+	[NAME:volcano:volcanoes]
+	[WORD:VOLCANO]
+	[TILE:94]
 
 [SHAPE:VOLCANOHH]
 	[NAME:volcano:volcanoes]
