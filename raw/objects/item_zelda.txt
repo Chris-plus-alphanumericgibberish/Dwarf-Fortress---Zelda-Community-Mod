@@ -108,6 +108,7 @@ Human weapons
 [ITEM_TOOL:ITEM_TOOL_PITCHFORK]
 	[NAME:farmer's pitchfork:farmer's pitchforks]
 	[SIZE:400]
+	[VALUE:10]
 	[METAL_WEAPON_MAT]
 	 TOOL_USE:HOLD_MEAT_FOR_CARVING 
 	[TILE:'/']
