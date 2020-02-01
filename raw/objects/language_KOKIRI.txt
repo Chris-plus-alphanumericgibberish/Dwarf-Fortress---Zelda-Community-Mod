@@ -367,6 +367,7 @@ language_KOKIRI
 	[T_WORD:COMMON:lori]
 	[T_WORD:COMMUNION:hickora]
 	[T_WORD:COMPANION:damekula]
+	[T_WORD:COMPANY:damekula]
 	[T_WORD:COMPASSION:edaranu]
 	[T_WORD:COMPETE:linrash]
 	[T_WORD:COMPLEX:forowaldo]

@@ -367,6 +367,7 @@ language_RITOZORA
 	[T_WORD:COMMON:ritona]
 	[T_WORD:COMMUNION:crevane]
 	[T_WORD:COMPANION:dor]
+	[T_WORD:COMPANY:dorna]
 	[T_WORD:COMPASSION:aquamalan]
 	[T_WORD:COMPETE:lutotts]
 	[T_WORD:COMPLEX:ruteli]

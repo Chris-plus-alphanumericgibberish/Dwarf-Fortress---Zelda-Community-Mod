@@ -367,6 +367,7 @@ language_GORON
 	[T_WORD:COMMON:bounia]
 	[T_WORD:COMMUNION:brongor]
 	[T_WORD:COMPANION:bludania]
+	[T_WORD:COMPANY:gobludania]
 	[T_WORD:COMPASSION:bom]
 	[T_WORD:COMPETE:motongorko]
 	[T_WORD:COMPLEX:rol]

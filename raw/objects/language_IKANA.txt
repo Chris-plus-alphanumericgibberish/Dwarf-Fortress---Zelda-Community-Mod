@@ -367,6 +367,7 @@ language_IKANA
 	[T_WORD:COMMON:yuhtilli]
 	[T_WORD:COMMUNION:mitl]
 	[T_WORD:COMPANION:xonizan]
+	[T_WORD:COMPANY:etliizan]
 	[T_WORD:COMPASSION:ihuatlia]
 	[T_WORD:COMPETE:ceneli]
 	[T_WORD:COMPLEX:noch]

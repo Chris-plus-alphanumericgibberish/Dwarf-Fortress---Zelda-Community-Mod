@@ -367,6 +367,7 @@ language_ZUNA
 	[T_WORD:COMMON:djahhor]
 	[T_WORD:COMMUNION:bateftiye]
 	[T_WORD:COMPANION:aphnakaru]
+	[T_WORD:COMPANY:amunkaru]
 	[T_WORD:COMPASSION:khutokrian]
 	[T_WORD:COMPETE:wentuhotet]
 	[T_WORD:COMPLEX:iten]

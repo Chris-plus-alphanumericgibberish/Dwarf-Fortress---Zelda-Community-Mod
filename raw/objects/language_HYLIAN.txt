@@ -367,6 +367,7 @@ language_HYLIAN
 	[T_WORD:COMMON:tjebare]
 	[T_WORD:COMMUNION:shundusha]
 	[T_WORD:COMPANION:karutje]
+	[T_WORD:COMPANY:dobehy]
 	[T_WORD:COMPASSION:lanayrutjebo]
 	[T_WORD:COMPETE:sabare]
 	[T_WORD:COMPLEX:shutjebe]

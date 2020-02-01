@@ -367,6 +367,7 @@ language_ORCISH
 	[T_WORD:COMMON:draum]
 	[T_WORD:COMMUNION:indolb]
 	[T_WORD:COMPANION:ugism]
+	[T_WORD:COMPANY:nugism]
 	[T_WORD:COMPASSION:rijafrum]
 	[T_WORD:COMPETE:thom]
 	[T_WORD:COMPLEX:jar]

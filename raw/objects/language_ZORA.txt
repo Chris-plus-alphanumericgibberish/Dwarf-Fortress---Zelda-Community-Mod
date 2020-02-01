@@ -367,6 +367,7 @@ language_ZORA
 	[T_WORD:COMMON:orentrepha]
 	[T_WORD:COMMUNION:romsido]
 	[T_WORD:COMPANION:madora]
+	[T_WORD:COMPANY:madorna]
 	[T_WORD:COMPASSION:grutalan]
 	[T_WORD:COMPETE:grutotorin]
 	[T_WORD:COMPLEX:hat]

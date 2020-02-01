@@ -6,6 +6,7 @@ descriptor_shape_extra
 	[WORD:CAVE]
 	[NAME:cave:caves]
 	[TILE:7]
+	[CATEGORY:SIMPLE]
 
 Based on Umiman's It's the Small Things mod
 	
@@ -57,6 +58,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:elongated twili]
 	[ADJ:noble twili]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:GIRLDAERAS]
 	[NAME:girl:girls]
@@ -106,6 +108,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:elongated twili]
 	[ADJ:noble twili]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_HUMAN]
 	[NAME:human woman:human women]
@@ -132,6 +135,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_HYLIAN]
 	[NAME:hylian woman:hylian women]
@@ -158,6 +162,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_HYLIA]
 	[NAME:winged hylian woman:winged hylian women]
@@ -186,6 +191,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_KOKIRI]
 	[NAME:kokiri girl:kokiri girls]
@@ -211,6 +217,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_KOROKRI]
 	[NAME:korokri girl:korokri girls]
@@ -236,6 +243,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_GORON]
 	[NAME:goron woman:goron women]
@@ -262,6 +270,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:plump]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_YETI]
 	[NAME:yeti woman:yeti women]
@@ -288,6 +297,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:plump]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_ZORA]
 	[NAME:zora woman:zora women]
@@ -312,6 +322,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_DELPHIN_ZORA]
 	[NAME:delphin zora woman:delphin zora women]
@@ -336,6 +347,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_FANCY_ZORA]
 	[NAME:fancy zora woman:fancy zora women]
@@ -360,6 +372,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_FEATHERED_ZORA]
 	[NAME:feathered zora woman:feathered zora women]
@@ -384,6 +397,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_BEAKED_ZORA]
 	[NAME:beaked zora woman:beaked zora women]
@@ -409,6 +423,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_FLYING_ZORA]
 	[NAME:flying zora woman:flying zora women]
@@ -434,6 +449,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_SHEIKAH]
 	[NAME:sheikah woman:sheikah women]
@@ -460,6 +476,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_SHEIKAH_HAUNT]
 	[NAME:headless sheikah woman with severed hands:headless sheikah women with severed hands]
@@ -486,6 +503,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_GERUDO]
 	[NAME:gerudo woman:gerudo women]
@@ -512,6 +530,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_CISTERN]
 	[NAME:four-armed gerudo woman:four-armed gerudo women]
@@ -538,6 +557,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_SANDS]
 	[NAME:female naga:female nagas]
@@ -561,6 +581,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_DREAM]
 	[NAME:mermaid:mermaids]
@@ -585,6 +606,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_TWILI]
 	[NAME:twili woman:twili women]
@@ -611,6 +633,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_TWILI_SHORT]
 	[NAME:squat twili woman:squat twili women]
@@ -637,6 +660,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_TWILI_TALL]
 	[NAME:elongated twili woman:elongated twili women]
@@ -663,6 +687,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_TWILI_NOBLE]
 	[NAME:twili noblewoman:twili noblewomen]
@@ -689,6 +714,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA]
 	[NAME:man:men]
@@ -734,6 +760,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:elongated twili]
 	[ADJ:noble twili]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:BOYDAERAS]
 	[NAME:boy:boys]
@@ -777,6 +804,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:elongated twili]
 	[ADJ:noble twili]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_HUMAN]
 	[NAME:human man:human men]
@@ -803,6 +831,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_HYLIAN]
 	[NAME:hylian man:hylian men]
@@ -829,6 +858,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_KOKIRI]
 	[NAME:kokiri boy:kokiri boys]
@@ -854,6 +884,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_KOROKRI]
 	[NAME:korokri boy:korokri boys]
@@ -879,6 +910,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_GORON]
 	[NAME:goron man:goron men]
@@ -904,6 +936,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:undead]
 	[ADJ:muscled]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_YETI]
 	[NAME:yeti man:yeti men]
@@ -929,6 +962,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:undead]
 	[ADJ:muscled]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_ZORA]
 	[NAME:zora man:zora men]
@@ -953,6 +987,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_DELPHIN_ZORA]
 	[NAME:delphin zora man:delphin zora men]
@@ -977,6 +1012,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_FANCY_ZORA]
 	[NAME:fancy zora man:fancy zora men]
@@ -1001,6 +1037,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_FEATHERED_ZORA]
 	[NAME:feathered zora man:feathered zora men]
@@ -1025,6 +1062,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_BEAKED_ZORA]
 	[NAME:beaked zora man:beaked zora men]
@@ -1049,6 +1087,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:undead]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_FLYING_ZORA]
 	[NAME:flying zora man:flying zora men]
@@ -1074,6 +1113,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_SHEIKAH]
 	[NAME:sheikah man:sheikah men]
@@ -1100,6 +1140,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_SHEIKAH_HAUNT]
 	[NAME:headless sheikah man with severed hands:headless sheikah men with severed hands]
@@ -1126,6 +1167,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_GERUDO]
 	[NAME:gerudo king:gerudo kings]
@@ -1152,6 +1194,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_TWILI]
 	[NAME:twili man:twili men]
@@ -1178,6 +1221,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_TWILI_SHORT]
 	[NAME:squat twili man:squat twili men]
@@ -1204,6 +1248,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_TWILI_TALL]
 	[NAME:elongated twili man:elongated twili men]
@@ -1230,6 +1275,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MALEDAERSA_TWILI_NOBLE]
 	[NAME:twili nobleman:twili noblemen]
@@ -1256,6 +1302,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:skeletal]
 	[ADJ:lithe]
 	[TILE:11]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MURAL123]
 	[NAME:crowd:crowds]
@@ -1265,6 +1312,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:fleeing]
 	[ADJ:celebrating]
 	[TILE:42]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FLAMEEEW]
 	[NAME:flame:flames]
@@ -1274,6 +1322,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:small]
 	[ADJ:ghostly]
 	[TILE:19]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:WINGGRG]
 	[WORD:WING]
@@ -1281,6 +1330,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:feathery]
 	[ADJ:fearsome]
 	[TILE:34]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MESSAGEQW]
 	[NAME:message:messages]
@@ -1292,6 +1342,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:moronic]
 	[ADJ:philosophical]
 	[TILE:126]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:GEAR23]
 	[NAME:gear:gears]
@@ -1301,6 +1352,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:rusted]
 	[ADJ:turning]
 	[TILE:15]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:OVERSEERGRGR]
 	[NAME:overseer:overseers]
@@ -1310,6 +1362,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:all-knowing]
 	[ADJ:omnipresent]
 	[TILE:1]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:DESERTHH1]
 	[NAME:desert:deserts]
@@ -1317,6 +1370,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:barren]
 	[ADJ:sandy]
 	[TILE:30]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:DESERTHH2]
 	[NAME:desert:deserts]
@@ -1324,12 +1378,14 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:sandy]
 	[WORD:DESERT]
 	[TILE:46]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:BADLANDSHH]
 	[NAME:badland:badlands]
 	[WORD:DESERT]
 	[ADJ:desolate]
 	[TILE:251]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:TUNDRAHH]
 	[NAME:tundra:tundras]
@@ -1337,11 +1393,13 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:frozen]
 	[ADJ:empty]
 	[TILE:46]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FOREST]
 	[NAME:forest:forests]
 	[WORD:FOREST]
 	[TILE:5]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FORESTHH]
 	[NAME:forest:forests]
@@ -1353,6 +1411,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:broadleaf]
 	[ADJ:conifer]
 	[TILE:5]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:JUNGLEHH]
 	[NAME:jungle:jungles]
@@ -1360,16 +1419,19 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:tropical]
 	[ADJ:overgrown]
 	[TILE:6]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:HILLSHH]
 	[NAME:hill:hills]
 	[WORD:HILL]
 	[TILE:239]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:VOLCANO]
 	[NAME:volcano:volcanoes]
 	[WORD:VOLCANO]
 	[TILE:94]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:VOLCANOHH]
 	[NAME:volcano:volcanoes]
@@ -1380,11 +1442,13 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:shaking]
 	[ADJ:ancient]
 	[TILE:94]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:SAVANNAHH]
 	[NAME:savanna:savannas]
 	[WORD:GRASS]
 	[TILE:34]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FIELDHH]
 	[NAME:field:fields]
@@ -1395,11 +1459,13 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:grassy]
 	[ADJ:endless]
 	[TILE:46]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:SWAMPHH]
 	[NAME:swamp:swamps]
 	[WORD:SWAMP]
 	[TILE:244]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:RIVERHH]
 	[NAME:river:rivers]
@@ -1409,6 +1475,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:flowing]
 	[ADJ:carp-infested]
 	[TILE:247]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:OCEANHH]
 	[NAME:ocean:oceans]
@@ -1422,6 +1489,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:dark]
 	[ADJ:cold]
 	[TILE:247]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:LAKEGG]
 	[NAME:lake:lakes]
@@ -1430,6 +1498,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:foggy]
 	[ADJ:ghostly]
 	[TILE:7]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:CAVEHH]
 	[NAME:cave:caves]
@@ -1443,6 +1512,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:goron]
 	[ADJ:feathered zora]
 	[TILE:7]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:DWFORTRESSHH]
 	[NAME:fortress:fortresses]
@@ -1462,6 +1532,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:ransacked]
 	[ADJ:goron]
 	[TILE:234]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:GBFORTRESSRR]
 	[NAME:stronghold:strongholds]
@@ -1474,6 +1545,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:twili]
 	[ADJ:savage]
 	[TILE:227]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:ELVENRETREATER]
 	[NAME:retreat:retreats]
@@ -1481,6 +1553,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:kokiri]
 	[ADJ:korokri]
 	[TILE:140]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:HUMANCITYER]
 	[NAME:city:cities]
@@ -1498,6 +1571,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:orderly]
 	[ADJ:thriving]
 	[TILE:15]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:CASTLESHH]
 	[NAME:castle:castles]
@@ -1516,6 +1590,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:royal]
 	[ADJ:deku]
 	[TILE:234]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:DWDUNHH]
 	[NAME:dungeon:dungeons]
@@ -1536,6 +1611,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:goron]
 	[ADJ:sheikah]
 	[TILE:234]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:VILLAGESES]
 	[NAME:village:villages]
@@ -1546,6 +1622,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:ninja]
 	[ADJ:hidden]
 	[TILE:15]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:DWMEYERMANHH]
 	[NAME:beast:beasts]
@@ -1562,6 +1639,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:diseased]
 	[ADJ:rampaging]
 	[TILE:66]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:ANIANIAMAMA]
 	[NAME:animal:animals]
@@ -1587,6 +1665,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:loyal]
 	[ADJ:swift]
 	[TILE:65]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:HUNTLEONIDAS]
 	[NAME:hunter:hunters]
@@ -1594,6 +1673,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:animal]
 	[ADJ:slain]
 	[TILE:1]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:WARLEONIDAS]
 	[NAME:skirmish:skirmishes]
@@ -1610,6 +1690,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:eternal]
 	[ADJ:minor]
 	[TILE:176]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:WARLEONIDAS2]
 	[NAME:war:wars]
@@ -1626,6 +1707,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:eternal]
 	[ADJ:minor]
 	[TILE:176]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:DURRWHAT]
 	[NAME:fool:stupidity]
@@ -1662,6 +1744,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:undead]
 	[ADJ:bloody]
 	[TILE:63]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:GENIUSISSAVIOR]
 	[NAME:genius:genius]
@@ -1670,6 +1753,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:cruel]
 	[ADJ:incredible]
 	[TILE:33]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FAMILYISSAVIOR]
 	[NAME:family:society]
@@ -1683,6 +1767,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:questionable]
 	[ADJ:suffering]
 	[TILE:246]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:WATERFALLINGDOWN]
 	[NAME:waterfall:waterfalls]
@@ -1693,6 +1778,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:blood]
 	[ADJ:booze]
 	[TILE:240]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:OHNOESNIGHTMARE]
 	[NAME:nightmare:nightmares]
@@ -1702,6 +1788,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:shadowy]
 	[ADJ:burning]
 	[TILE:224]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:OHNOESTERROR]
 	[NAME:terror:terrors]
@@ -1709,6 +1796,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:eight-legged]
 	[ADJ:unforgiving]
 	[TILE:83]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:OHNOESHORROR]
 	[NAME:horror:horrors]
@@ -1716,6 +1804,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:tusked]
 	[ADJ:boat-murdering]
 	[TILE:69]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:PARTAYLIKEWHENEVER]
 	[NAME:party:parties]
@@ -1728,11 +1817,13 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:forbidden]
 	[ADJ:wild]
 	[TILE:43]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:DIELIKEWHENEVER]
 	[NAME:death:deaths]
 	[WORD:DEATH]
 	[TILE:48]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:ARROWZW]
 	[NAME:arrow:arrows]
@@ -1742,6 +1833,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:leftwards facing]
 	[ADJ:rightwards facing]
 	[TILE:24]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:DININGROOMS]
 	[NAME:dining room:dining rooms]
@@ -1750,6 +1842,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:occupied]
 	[ADJ:empty]
 	[TILE:210]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:SHOP]
 	[NAME:shop:shops]
@@ -1761,6 +1854,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:exotic]
 	[ADJ:quaint]
 	[TILE:15]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:LABYRINTH]
 	[NAME:labyrinth:labyrinths]
@@ -1770,6 +1864,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:ritual]
 	[ADJ:haunted]
 	[TILE:206]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:RAIN]
 	[NAME:rainstorm:rainstorms]
@@ -1780,6 +1875,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:pouring]
 	[ADJ:depressing]
 	[TILE:176]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MACHINE]
 	[NAME:machine:machines]
@@ -1789,6 +1885,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:fantastic]
 	[ADJ:extraordinary]
 	[TILE:15]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:LIBRARY]
 	[NAME:library:libraries]
@@ -1801,6 +1898,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:exotic]
 	[ADJ:burning]
 	[TILE:240]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:CHURCHHH]
 	[NAME:temple:temples]
@@ -1812,6 +1910,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:active]
 	[ADJ:abandoned]
 	[TILE:240]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:MONETARY]
 	[NAME:monastary:monastaries]
@@ -1822,6 +1921,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:abandoned]
 	[ADJ:quaint]
 	[TILE:240]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:ARCH]
 	[NAME:arch:arches]
@@ -1833,6 +1933,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:meat]
 	[ADJ:engraved]
 	[TILE:239]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:CANDLE]
 	[NAME:candle:candles]
@@ -1842,6 +1943,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:comforting]
 	[ADJ:mysterious]
 	[TILE:161]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:SLAVE]
 	[NAME:slave:slaves]
@@ -1871,6 +1973,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:mermaid]
 	[ADJ:twili]
 	[TILE:85]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_GOLDEN_GODDESS]
 	[NAME:golden goddess:golden goddesses]
@@ -1898,6 +2001,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:lithe]
 	[ADJ:plump]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_GOLDEN_GODDESS_HALOED]
 	[NAME:triple-haloed golden goddess:triple-haloed golden goddesses]
@@ -1923,6 +2027,7 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:lithe]
 	[ADJ:plump]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 
 [SHAPE:FEMALEDAERAS_GOLDEN_GODDESS_WINGED]
 	[NAME:six-winged golden goddess:six-winged golden goddesses]
@@ -1948,4 +2053,5 @@ Based on Umiman's It's the Small Things mod
 	[ADJ:lithe]
 	[ADJ:plump]
 	[TILE:12]
+	[CATEGORY:SIMPLE]
 

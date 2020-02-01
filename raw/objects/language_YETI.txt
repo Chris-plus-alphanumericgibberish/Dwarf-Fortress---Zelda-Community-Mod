@@ -367,6 +367,7 @@ language_YETI
 	[T_WORD:COMMON:bhankaar]
 	[T_WORD:COMMUNION:gardinn]
 	[T_WORD:COMPANION:chaulai]
+	[T_WORD:COMPANY:chautha]
 	[T_WORD:COMPASSION:maskari]
 	[T_WORD:COMPETE:laile]
 	[T_WORD:COMPLEX:kehiinn]

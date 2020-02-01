@@ -367,6 +367,7 @@ language_TWILI
 	[T_WORD:COMMON:zanto]
 	[T_WORD:COMMUNION:hose]
 	[T_WORD:COMPANION:werened]
+	[T_WORD:COMPANY:weresed]
 	[T_WORD:COMPASSION:aracred]
 	[T_WORD:COMPETE:whervade]
 	[T_WORD:COMPLEX:dracre]

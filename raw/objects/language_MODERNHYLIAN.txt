@@ -367,6 +367,7 @@ language_MODERNHYRULE
 	[T_WORD:COMMON:worte]
 	[T_WORD:COMMUNION:baumeren]
 	[T_WORD:COMPANION:bugutarke]
+	[T_WORD:COMPANY:mobugutarke]
 	[T_WORD:COMPASSION:onneshyn]
 	[T_WORD:COMPETE:ensah]
 	[T_WORD:COMPLEX:nolon]

@@ -367,6 +367,7 @@ language_SHEIKAH
 	[T_WORD:COMMON:sogo]
 	[T_WORD:COMMUNION:takura]
 	[T_WORD:COMPANION:uesuma]
+	[T_WORD:COMPANY:uesumaya]
 	[T_WORD:COMPASSION:iwashiba]
 	[T_WORD:COMPETE:ichibu]
 	[T_WORD:COMPLEX:oterusa]

@@ -367,6 +367,7 @@ language_GERUDO
 	[T_WORD:COMMON:savei]
 	[T_WORD:COMMUNION:sperdav]
 	[T_WORD:COMPANION:babab]
+	[T_WORD:COMPANY:stababab]
 	[T_WORD:COMPASSION:savia]
 	[T_WORD:COMPETE:lisha]
 	[T_WORD:COMPLEX:sapphi]
