@@ -1830,7 +1830,7 @@ demi-gauntlet: gauntlets are bugged
 	 NO_DEFAULT_JOB]
 
 [ITEM_TOOL:ITEM_TOOL_SHIELD_GERUDO]
-	[NAME:gerudo template:gerudo templates]
+	[NAME:gerudo shield template:gerudo shield templates]
 	[SIZE:150]
 	[VALUE:500]
 	[TILE:91]
@@ -1840,7 +1840,7 @@ demi-gauntlet: gauntlets are bugged
 	[NO_DEFAULT_JOB]
 
 [ITEM_TOOL:ITEM_TOOL_SHIELD_RADIANT]
-	[NAME:radiant template:radiant templates]
+	[NAME:radiant shield template:radiant shield templates]
 	[SIZE:250]
 	[VALUE:500]
 	[TILE:91]
