@@ -27,6 +27,11 @@ descriptor_color_standard
 	[WORD:PINK]
 	[RGB:255:240:242]
 
+[COLOR:DIAMOND_COLOR]
+	[NAME:diamond-patterned]
+	[WORD:DIAMOND]
+	[RGB:150:75:0]
+
 [COLOR:WHITE_MOON]
 	[NAME:moon white]
 	[WORD:MOON]
