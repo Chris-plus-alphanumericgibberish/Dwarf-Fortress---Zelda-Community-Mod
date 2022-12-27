@@ -2452,7 +2452,7 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A small bird of prey.]
 	[NAME:eagle:eagles:eagle]
 	[CASTE_NAME:eagle:eagles:eagle]
-	[GENERAL_CHILD_NAME:eagle chick:eagle chicks]
+	[GENERAL_CHILD_NAME:eaglet:eaglets]
 	[CREATURE_TILE:'e'][COLOR:6:0:0]
 	[POPULATION_NUMBER:15:30]
 	[NATURAL]
